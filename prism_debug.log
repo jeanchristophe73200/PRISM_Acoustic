@@ -1,0 +1,1796 @@
+[2025-12-22 11:18:27] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 11:18:27] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 11:18:27] [INFO] Système : Darwin 25.2.0
+[2025-12-22 11:18:27] [INFO] Machine : arm64
+[2025-12-22 11:18:27] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 11:18:27] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 11:18:28] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 11:18:28] [CRITICAL] ERREUR FATALE AU LANCEMENT : No module named 'ui.main_window'
+Traceback (most recent call last):
+  File "/Users/jeanchristophefinantz/PRISM_V5/prism_launcher.py", line 35, in main
+    from ui.main_window import MainWindow
+ModuleNotFoundError: No module named 'ui.main_window'
+[2025-12-22 11:20:12] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 11:20:12] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 11:20:12] [INFO] Système : Darwin 25.2.0
+[2025-12-22 11:20:12] [INFO] Machine : arm64
+[2025-12-22 11:20:12] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 11:20:12] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 11:20:12] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 11:20:15] [INFO] Dashboard V2.1 initialisé (avec Zoom).
+[2025-12-22 11:20:15] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 11:20:15] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 11:20:15] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 11:24:12] [INFO] Dossier sélectionné : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 11:24:12] [INFO] 1 fichiers CSV trouvés. Traitement en cours...
+[2025-12-22 11:24:12] [ERROR] Erreur lecture fichier enrg_20251217_084604.csv: Number of passed names did not match number of header fields in the file
+[2025-12-22 11:24:12] [ERROR] Échec de la compilation des données.
+[2025-12-22 11:58:34] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 11:58:34] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 11:58:34] [INFO] Système : Darwin 25.2.0
+[2025-12-22 11:58:34] [INFO] Machine : arm64
+[2025-12-22 11:58:34] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 11:58:34] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 11:58:34] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 11:58:35] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 11:58:35] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 11:58:35] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 11:58:56] [INFO] Dossier sélectionné : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 11:58:56] [INFO] Lecture du fichier : enrg_20251217_084604.csv
+[2025-12-22 11:58:57] [INFO] Succès. Colonnes : ['ï»¿# ONYX V3.2 | MACHINE: Mac-mini-de-Jean.local | DATE: 2025-12-17 08:46:04.974151']
+[2025-12-22 11:58:57] [WARNING] Pas de colonne compatible trouvée.
+[2025-12-22 12:01:30] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:01:30] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:01:30] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:01:30] [INFO] Machine : arm64
+[2025-12-22 12:01:30] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:01:30] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:01:30] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:01:30] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:01:30] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:01:30] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:03:32] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:03:32] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:03:32] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:03:32] [INFO] Machine : arm64
+[2025-12-22 12:03:32] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:03:32] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:03:32] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:03:32] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:03:32] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:03:32] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:03:40] [INFO] En-tête détecté à la ligne : 0
+[2025-12-22 12:08:41] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:08:41] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:08:41] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:08:41] [INFO] Machine : arm64
+[2025-12-22 12:08:41] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:08:41] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:08:42] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:08:42] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:08:42] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:08:42] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:08:50] [INFO] Lecture fichier : enrg_20251217_084604.csv
+[2025-12-22 12:08:51] [INFO] Colonnes trouvées : ['ts', 'h', 'dBA', 'dBC', '20Hz', '25Hz', '31.5Hz', '40Hz', '50Hz', '63Hz', '80Hz', '100Hz', '125Hz', '160Hz', '200Hz', '250Hz', '315Hz', '400Hz', '500Hz', '630Hz', '800Hz', '1000Hz', '1250Hz', '1600Hz', '2000Hz', '2500Hz', '3150Hz', '4000Hz', 'tmp', 'hum', 'vent', 'pres', 'pluie', 'note', 'Audio_Ref']
+[2025-12-22 12:12:36] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:12:36] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:12:36] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:12:36] [INFO] Machine : arm64
+[2025-12-22 12:12:36] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:12:36] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:12:36] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:12:37] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:12:37] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:12:37] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:23:55] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:23:55] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:23:55] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:23:55] [INFO] Machine : arm64
+[2025-12-22 12:23:55] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:23:55] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:23:55] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:23:55] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:23:55] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:23:55] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:24:08] [INFO] Lecture du fichier unique : enrg_20251217_084604.csv
+[2025-12-22 12:24:09] [INFO] Succès. Total lignes lues : 29998
+[2025-12-22 12:30:57] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:30:57] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:30:57] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:30:57] [INFO] Machine : arm64
+[2025-12-22 12:30:57] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:30:57] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:30:57] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:30:58] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:30:58] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:30:58] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:31:07] [INFO] Analyse du dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 12:31:07] [INFO] Fichier chargé avec succès. 29998 points disponibles.
+[2025-12-22 12:31:07] [INFO] Graphique mis à jour. En attente de clic...
+[2025-12-22 12:31:12] [INFO] --- DIAGNOSTIC CLIC ---
+[2025-12-22 12:31:12] [INFO] Temps Clic : 2025-12-17 18:51:13.474720240
+[2025-12-22 12:31:12] [INFO] Fichier Audio Cible : 2025-12-17_19h00_Audio.flac
+[2025-12-22 12:31:12] [INFO] Début du fichier : 2025-12-17 18:00:01.342999935
+[2025-12-22 12:31:12] [INFO] Position de lecture calculée : 3072.13 sec (51m 12s)
+[2025-12-22 12:31:12] [INFO] -----------------------
+[2025-12-22 12:32:14] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:32:14] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:32:14] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:32:14] [INFO] Machine : arm64
+[2025-12-22 12:32:14] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:32:14] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:32:15] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:32:16] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:32:16] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:32:16] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:32:26] [INFO] Dossier sélectionné : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 12:32:27] [INFO] Données chargées. Prêt pour lecture audio.
+[2025-12-22 12:32:37] [INFO] Lecture : 2025-12-17_17h00_Audio.flac à 2635.10s
+[2025-12-22 12:32:41] [INFO] Lecture : 2025-12-17_20h00_Audio.flac à 2801.08s
+[2025-12-22 12:32:43] [INFO] Lecture : 2025-12-17_21h00_Audio.flac à 1973.04s
+[2025-12-22 12:32:45] [INFO] Lecture : 2025-12-18_00h00_Audio.flac à 1081.44s
+[2025-12-22 12:32:46] [INFO] Lecture : 2025-12-18_02h00_Audio.flac à 2601.08s
+[2025-12-22 12:32:57] [INFO] Lecture : 2025-12-17_18h00_Audio.flac à 1253.78s
+[2025-12-22 12:34:05] [INFO] Lecture : 2025-12-17_19h00_Audio.flac à 296.39s
+[2025-12-22 12:34:47] [INFO] Lecture : 2025-12-17_13h00_Audio.flac à 2577.02s
+[2025-12-22 12:35:43] [INFO] Lecture : 2025-12-17_16h00_Audio.flac à 380.89s
+[2025-12-22 12:38:10] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 12:38:10] [INFO] --- PRISM V2.1 SYSTEM CHECK ---
+[2025-12-22 12:38:10] [INFO] Système : Darwin 25.2.0
+[2025-12-22 12:38:10] [INFO] Machine : arm64
+[2025-12-22 12:38:10] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 12:38:10] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 12:38:10] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 12:38:11] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 12:38:11] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 12:38:11] [INFO] Interface chargée. PRISM V2.1 est prêt.
+[2025-12-22 12:38:22] [INFO] Dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 12:38:23] [INFO] Données chargées (29998 pts).
+[2025-12-22 12:38:32] [INFO] Lecture : 2025-12-17_18h00_Audio.flac (+549.4s)
+[2025-12-22 12:38:34] [INFO] Lecture : 2025-12-17_18h00_Audio.flac (+591.3s)
+[2025-12-22 12:38:55] [INFO] Marqueur ajouté : 'residuel possible' à 17:09:52
+[2025-12-22 12:39:04] [INFO] Lecture : 2025-12-17_16h00_Audio.flac (+921.1s)
+[2025-12-22 12:39:08] [INFO] Lecture : 2025-12-17_21h00_Audio.flac (+177.4s)
+[2025-12-22 12:39:09] [INFO] Lecture : 2025-12-17_21h00_Audio.flac (+1057.1s)
+[2025-12-22 12:39:13] [INFO] Lecture : 2025-12-18_05h00_Audio.flac (+1706.3s)
+[2025-12-22 12:39:16] [INFO] Lecture : 2025-12-17_23h00_Audio.flac (+2194.7s)
+[2025-12-22 12:39:21] [INFO] Lecture : 2025-12-17_11h00_Audio.flac (+2916.9s)
+[2025-12-22 12:39:30] [INFO] Lecture : 2025-12-18_00h00_Audio.flac (+1400.3s)
+[2025-12-22 12:39:33] [INFO] Lecture : 2025-12-18_00h00_Audio.flac (+2866.5s)
+[2025-12-22 12:39:34] [INFO] Lecture : 2025-12-18_00h00_Audio.flac (+1735.4s)
+[2025-12-22 12:39:36] [INFO] Lecture : 2025-12-18_00h00_Audio.flac (+1693.6s)
+[2025-12-22 12:39:50] [INFO] Marqueur ajouté : 'mode silencieux possible' à 23:28:16
+[2025-12-22 12:39:56] [INFO] Lecture : 2025-12-18_01h00_Audio.flac (+3517.4s)
+[2025-12-22 12:40:00] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+2634.4s)
+[2025-12-22 12:40:02] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+2995.5s)
+[2025-12-22 12:40:03] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+3121.9s)
+[2025-12-22 12:40:08] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+2941.4s)
+[2025-12-22 12:40:12] [INFO] Lecture : 2025-12-18_04h00_Audio.flac (+1834.8s)
+[2025-12-22 12:40:15] [INFO] Lecture : 2025-12-18_05h00_Audio.flac (+1224.3s)
+[2025-12-22 12:40:18] [INFO] Lecture : 2025-12-18_05h00_Audio.flac (+2397.9s)
+[2025-12-22 12:40:21] [INFO] Lecture : 2025-12-18_06h00_Audio.flac (+821.9s)
+[2025-12-22 12:40:23] [INFO] Lecture : 2025-12-18_06h00_Audio.flac (+1616.3s)
+[2025-12-22 12:40:37] [INFO] Marqueur ajouté : 'pac on possible' à 05:26:57
+[2025-12-22 12:42:25] [INFO] Lecture : 2025-12-18_04h00_Audio.flac (+2568.6s)
+[2025-12-22 12:42:37] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+1237.8s)
+[2025-12-22 12:42:40] [INFO] Lecture : 2025-12-18_03h00_Audio.flac (+1039.2s)
+[2025-12-22 16:02:15] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:02:15] [INFO] --- PRISM V2.3 SYSTEM CHECK ---
+[2025-12-22 16:02:15] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:02:15] [INFO] Machine : arm64
+[2025-12-22 16:02:15] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:02:15] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:02:15] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:02:15] [INFO] IA SYSTEM : [Cerveau IA V2.2] : Prêt à analyser.
+[2025-12-22 16:02:15] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 16:02:15] [INFO] MainWindow V2.1 initialisée.
+[2025-12-22 16:02:15] [INFO] Interface chargée. PRISM V2.3 est prêt.
+[2025-12-22 16:05:19] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:05:19] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:05:19] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:05:19] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:05:19] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:05:19] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:05:19] [INFO] IA SYSTEM : [Cerveau IA V2.2] : Prêt à analyser.
+[2025-12-22 16:05:19] [INFO] Dashboard chargé dans la fenêtre principale.
+[2025-12-22 16:05:19] [INFO] CONNEXION REUSSIE : MainWindow a reçu le cerveau 'Cerveau IA V2.2'.
+[2025-12-22 16:05:19] [INFO] MainWindow V2.4 initialisée.
+[2025-12-22 16:05:19] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:05:38] [INFO] Dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 16:05:39] [INFO] Données chargées (29998 pts).
+[2025-12-22 16:10:21] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:10:21] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:10:21] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:10:21] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:10:21] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:10:21] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:10:21] [INFO] IA SYSTEM : [Cerveau IA V2.2] : Prêt à analyser.
+[2025-12-22 16:10:21] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:10:21] [INFO] MainWindow : Cerveau 'Cerveau IA V2.2' transmis au Dashboard.
+[2025-12-22 16:10:21] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:10:21] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:10:38] [INFO] 🤖 IA DIT : [Cerveau IA V2.2] : Prêt à analyser.
+[2025-12-22 16:10:38] [INFO] 🤖 TEST ANALYSE (85.5dB) : ALERTE : Niveau élevé détecté (85.5 dB) !
+[2025-12-22 16:11:54] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:11:54] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:11:54] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:11:54] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:11:54] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:11:54] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:11:54] [INFO] IA SYSTEM : [Cerveau IA V2.2] : Prêt à analyser.
+[2025-12-22 16:11:55] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:11:55] [INFO] MainWindow : Cerveau 'Cerveau IA V2.2' transmis au Dashboard.
+[2025-12-22 16:11:55] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:11:55] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:12:16] [INFO] Dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 16:12:17] [INFO] Données chargées (29998 pts).
+[2025-12-22 16:12:21] [INFO] 🧠 IA ANALYSE (33.7 dB) : Observation : Niveau calme (33.7 dB).
+[2025-12-22 16:12:21] [INFO] Lecture Audio : 2025-12-17_19h00_Audio.flac (+2564.5s)
+[2025-12-22 16:12:30] [INFO] 🧠 IA ANALYSE (31.7 dB) : Observation : Niveau calme (31.7 dB).
+[2025-12-22 16:12:30] [INFO] Lecture Audio : 2025-12-17_15h00_Audio.flac (+3425.6s)
+[2025-12-22 16:12:36] [INFO] 🧠 IA ANALYSE (28.6 dB) : Observation : Niveau calme (28.6 dB).
+[2025-12-22 16:12:36] [INFO] Lecture Audio : 2025-12-18_00h00_Audio.flac (+2076.6s)
+[2025-12-22 16:13:09] [INFO] 🧠 IA ANALYSE (30.3 dB) : Observation : Niveau calme (30.3 dB).
+[2025-12-22 16:13:09] [INFO] Lecture Audio : 2025-12-17_20h00_Audio.flac (+910.3s)
+[2025-12-22 16:14:31] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:14:31] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:14:31] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:14:31] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:14:31] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:14:31] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:14:31] [INFO] IA SYSTEM : [Cerveau IA V2.8 (Mode Debug)] : Je suis prêt. Mon seuil d'alerte est de 30.0 dB.
+[2025-12-22 16:14:32] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:14:32] [INFO] MainWindow : Cerveau 'Cerveau IA V2.8 (Mode Debug)' transmis au Dashboard.
+[2025-12-22 16:14:32] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:14:32] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:14:40] [INFO] Dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 16:14:40] [INFO] Données chargées (29998 pts).
+[2025-12-22 16:14:42] [INFO] 🧠 IA ANALYSE (33.7 dB) : ⚠️ ALERTE ! La valeur 33.7 est supérieure à 30.0.
+[2025-12-22 16:14:42] [INFO] Lecture Audio : 2025-12-17_19h00_Audio.flac (+2564.5s)
+[2025-12-22 16:14:48] [INFO] 🧠 IA ANALYSE (33.7 dB) : ⚠️ ALERTE ! La valeur 33.7 est supérieure à 30.0.
+[2025-12-22 16:14:48] [INFO] Lecture Audio : 2025-12-17_19h00_Audio.flac (+2564.5s)
+[2025-12-22 16:14:53] [INFO] 🧠 IA ANALYSE (28.1 dB) : 💤 Calme... La valeur 28.1 est inférieure à 30.0.
+[2025-12-22 16:14:53] [INFO] Lecture Audio : 2025-12-18_00h00_Audio.flac (+1822.7s)
+[2025-12-22 16:14:59] [INFO] 🧠 IA ANALYSE (28.2 dB) : 💤 Calme... La valeur 28.2 est inférieure à 30.0.
+[2025-12-22 16:14:59] [INFO] Lecture Audio : 2025-12-17_23h00_Audio.flac (+854.9s)
+[2025-12-22 16:15:01] [INFO] 🧠 IA ANALYSE (28.2 dB) : 💤 Calme... La valeur 28.2 est inférieure à 30.0.
+[2025-12-22 16:15:01] [INFO] Lecture Audio : 2025-12-17_23h00_Audio.flac (+854.9s)
+[2025-12-22 16:15:05] [INFO] 🧠 IA ANALYSE (44.6 dB) : ⚠️ ALERTE ! La valeur 44.6 est supérieure à 30.0.
+[2025-12-22 16:15:05] [INFO] Lecture Audio : 2025-12-17_16h00_Audio.flac (+842.2s)
+[2025-12-22 16:15:11] [INFO] 🧠 IA ANALYSE (44.6 dB) : ⚠️ ALERTE ! La valeur 44.6 est supérieure à 30.0.
+[2025-12-22 16:15:11] [INFO] Lecture Audio : 2025-12-17_16h00_Audio.flac (+842.2s)
+[2025-12-22 16:17:43] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:17:43] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:17:43] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:17:43] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:17:43] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:17:43] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:17:43] [INFO] IA SYSTEM : [Cerveau IA V2.9 (Expert Acoustique)] : Prêt. Je connais l'échelle des décibels.
+[2025-12-22 16:17:43] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:17:43] [INFO] MainWindow : Cerveau 'Cerveau IA V2.9 (Expert Acoustique)' transmis au Dashboard.
+[2025-12-22 16:17:43] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:17:43] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:17:58] [INFO] Dossier : /Volumes/Sauvegarde_SPL_Flac/Sauvegardes_ONYX/2025-12-17-test
+[2025-12-22 16:17:59] [INFO] Données chargées (29998 pts).
+[2025-12-22 16:18:04] [INFO] 🧠 IA ANALYSE (28.3 dB) : 🔈 (28.3 dB) : Zone de calme (Bruit de fond)
+[2025-12-22 16:18:04] [INFO] Lecture Audio : 2025-12-17_19h00_Audio.flac (+2649.1s)
+[2025-12-22 16:18:08] [INFO] 🧠 IA ANALYSE (28.1 dB) : 🔈 (28.1 dB) : Zone de calme (Bruit de fond)
+[2025-12-22 16:18:08] [INFO] Lecture Audio : 2025-12-18_00h00_Audio.flac (+1991.9s)
+[2025-12-22 16:18:13] [INFO] 🧠 IA ANALYSE (28.1 dB) : 🔈 (28.1 dB) : Zone de calme (Bruit de fond)
+[2025-12-22 16:18:13] [INFO] Lecture Audio : 2025-12-18_00h00_Audio.flac (+1991.9s)
+[2025-12-22 16:20:25] [INFO] 🧠 IA ANALYSE (27.9 dB) : 🔈 (27.9 dB) : Zone de calme (Bruit de fond)
+[2025-12-22 16:20:25] [INFO] Lecture Audio : 2025-12-17_15h00_Audio.flac (+464.3s)
+[2025-12-22 16:29:06] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:29:06] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:29:06] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:29:06] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:29:06] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:29:06] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:29:06] [INFO] IA SYSTEM : [Cerveau IA V3.0 (Spectral)] : Prêt. Analyse spectrale activée (Basses/Médiums/Aigus).
+[2025-12-22 16:29:07] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:29:07] [INFO] MainWindow : Cerveau 'Cerveau IA V3.0 (Spectral)' transmis au Dashboard.
+[2025-12-22 16:29:07] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:29:07] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:29:28] [INFO] 🔍 ANALYSE : [B:43.1 | M:28.0 | A:19.7] -> 🛑 DOMINANTE BASSE (Vent, Moteur, Roulement)
+[2025-12-22 16:29:28] [INFO] Audio : 2025-12-17_15h00_Audio.flac (+812.1s)
+[2025-12-22 16:29:32] [INFO] 🔍 ANALYSE : [B:42.9 | M:35.9 | A:19.9] -> 🛑 DOMINANTE BASSE (Vent, Moteur, Roulement)
+[2025-12-22 16:29:32] [INFO] Audio : 2025-12-17_15h00_Audio.flac (+1560.4s)
+[2025-12-22 16:29:37] [INFO] 🔍 ANALYSE : [B:61.6 | M:39.7 | A:25.7] -> 🛑 DOMINANTE BASSE (Vent, Moteur, Roulement)
+[2025-12-22 16:29:37] [INFO] Audio : 2025-12-17_19h00_Audio.flac (+2545.5s)
+[2025-12-22 16:29:39] [INFO] 🔍 ANALYSE : [B:38.6 | M:28.6 | A:19.9] -> 🛑 DOMINANTE BASSE (Vent, Moteur, Roulement)
+[2025-12-22 16:29:39] [INFO] Audio : 2025-12-18_00h00_Audio.flac (+2754.3s)
+[2025-12-22 16:32:55] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:32:55] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:32:55] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:32:55] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:32:55] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:32:55] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:32:55] [INFO] IA SYSTEM : [Cerveau IA V4.0 (Scanner)] : Prêt. Seuil de scan réglé à 40.0 dB.
+[2025-12-22 16:32:56] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:32:56] [INFO] MainWindow : Cerveau 'Cerveau IA V4.0 (Scanner)' transmis au Dashboard.
+[2025-12-22 16:32:56] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:32:56] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:33:06] [INFO] Chargé.
+[2025-12-22 16:33:14] [INFO] ⏳ Scan IA en cours...
+[2025-12-22 16:33:14] [INFO] ✅ Scan terminé. 2574 points > 40dB trouvés.
+[2025-12-22 16:33:14] [INFO] ... et 2524 autres.
+[2025-12-22 16:36:28] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:36:28] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:36:28] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:36:28] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:36:28] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:36:28] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:36:28] [INFO] IA SYSTEM : [Cerveau IA V4.0 (Scanner)] : Prêt. Seuil de scan réglé à 40.0 dB.
+[2025-12-22 16:36:28] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:36:28] [INFO] MainWindow : Cerveau 'Cerveau IA V4.0 (Scanner)' transmis au Dashboard.
+[2025-12-22 16:36:28] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:36:28] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:36:38] [INFO] Chargé.
+[2025-12-22 16:36:50] [INFO] ⏳ Scan IA en cours...
+[2025-12-22 16:36:50] [INFO] ✅ Terminé. 2574 alertes brutes.
+[2025-12-22 16:36:50] [INFO] 📉 Regroupement : 145 marqueurs affichés (1 tous les 2min max).
+[2025-12-22 16:39:43] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:39:43] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:39:43] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:39:43] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:39:43] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:39:43] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:39:43] [INFO] IA SYSTEM : [Cerveau IA V4.0 (Scanner)] : Prêt. Seuil de scan réglé à 40.0 dB.
+[2025-12-22 16:39:43] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:39:43] [INFO] MainWindow : Cerveau 'Cerveau IA V4.0 (Scanner)' transmis au Dashboard.
+[2025-12-22 16:39:43] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:39:43] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:39:53] [INFO] Chargé.
+[2025-12-22 16:39:55] [INFO] ⏳ Scan IA en cours...
+[2025-12-22 16:39:55] [INFO] ✅ Terminé. 2574 alertes brutes.
+[2025-12-22 16:39:55] [INFO] 📉 Regroupement : 145 marqueurs affichés.
+[2025-12-22 16:55:14] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 16:55:14] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 16:55:14] [INFO] Système : Darwin 25.2.0
+[2025-12-22 16:55:14] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 16:55:14] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 16:55:15] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 16:55:15] [INFO] IA SYSTEM : [Cerveau IA V5.0 (Expert Acoustique)] : Prêt. Mode 'Émergence' activé (Jour +5dB / Nuit +3dB).
+[2025-12-22 16:55:15] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 16:55:15] [INFO] MainWindow : Cerveau 'Cerveau IA V5.0 (Expert Acoustique)' transmis au Dashboard.
+[2025-12-22 16:55:15] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 16:55:15] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 16:55:24] [INFO] Chargé.
+[2025-12-22 16:55:26] [INFO] ⏳ Calcul du Résiduel & Scan...
+[2025-12-22 16:55:26] [INFO] 📊 Bruit Résiduel (L90) calculé : 27.9 dB
+[2025-12-22 16:55:26] [INFO] 🔎 5663 dépassements détectés (Jour+5 / Nuit+3).
+[2025-12-22 16:55:26] [INFO] 📉 Affichage de 346 marqueurs principaux.
+[2025-12-22 16:55:54] [INFO] POINT : ✅ Conforme (+0.0 dB)
+[2025-12-22 16:55:54] [INFO] [B:45.1|M:28.9|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:55:54] [INFO] Play 2025-12-17_19h00_Audio.flac (+3562.8s)
+[2025-12-22 16:55:57] [INFO] POINT : ✅ Conforme (+-0.2 dB)
+[2025-12-22 16:55:57] [INFO] [B:41.7|M:28.1|A:19.7] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:55:57] [INFO] Play 2025-12-17_20h00_Audio.flac (+3.3s)
+[2025-12-22 16:56:04] [INFO] POINT : ✅ Conforme (+0.6 dB)
+[2025-12-22 16:56:04] [INFO] [B:41.4|M:31.3|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:56:04] [INFO] Play 2025-12-17_20h00_Audio.flac (+191.7s)
+[2025-12-22 16:56:31] [INFO] POINT : ✅ Conforme (+0.5 dB)
+[2025-12-22 16:56:31] [INFO] [B:38.1|M:30.2|A:20.2] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:56:31] [INFO] Play 2025-12-17_22h00_Audio.flac (+3406.8s)
+[2025-12-22 16:56:36] [INFO] POINT : ✅ Conforme (+-0.2 dB)
+[2025-12-22 16:56:36] [INFO] [B:37.4|M:28.2|A:19.7] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:56:36] [INFO] Play 2025-12-17_22h00_Audio.flac (+3042.2s)
+[2025-12-22 16:57:01] [INFO] POINT : ✅ Conforme (+0.2 dB)
+[2025-12-22 16:57:01] [INFO] [B:42.0|M:29.6|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:01] [INFO] Play 2025-12-17_23h00_Audio.flac (+2219.6s)
+[2025-12-22 16:57:20] [INFO] POINT : ✅ Conforme (+0.3 dB)
+[2025-12-22 16:57:20] [INFO] [B:41.7|M:29.1|A:20.3] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:20] [INFO] Play 2025-12-17_23h00_Audio.flac (+3178.7s)
+[2025-12-22 16:57:22] [INFO] POINT : ✅ Conforme (+0.0 dB)
+[2025-12-22 16:57:22] [INFO] [B:41.7|M:28.6|A:19.7] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:22] [INFO] Play 2025-12-17_23h00_Audio.flac (+3200.5s)
+[2025-12-22 16:57:23] [INFO] POINT : ✅ Conforme (+0.0 dB)
+[2025-12-22 16:57:23] [INFO] [B:40.8|M:28.4|A:19.6] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:23] [INFO] Play 2025-12-17_23h00_Audio.flac (+3213.2s)
+[2025-12-22 16:57:26] [INFO] POINT : ✅ Conforme (+-0.1 dB)
+[2025-12-22 16:57:26] [INFO] [B:40.3|M:28.5|A:19.6] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:26] [INFO] Play 2025-12-17_23h00_Audio.flac (+3211.3s)
+[2025-12-22 16:57:29] [INFO] POINT : ✅ Conforme (+-0.2 dB)
+[2025-12-22 16:57:29] [INFO] [B:41.6|M:28.3|A:19.6] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:29] [INFO] Play 2025-12-17_23h00_Audio.flac (+3231.3s)
+[2025-12-22 16:57:30] [INFO] POINT : ✅ Conforme (+0.0 dB)
+[2025-12-22 16:57:30] [INFO] [B:38.9|M:28.7|A:19.9] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:30] [INFO] Play 2025-12-17_23h00_Audio.flac (+3248.5s)
+[2025-12-22 16:57:32] [INFO] POINT : ✅ Conforme (+-0.3 dB)
+[2025-12-22 16:57:32] [INFO] [B:39.9|M:28.3|A:19.7] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:32] [INFO] Play 2025-12-17_23h00_Audio.flac (+3293.0s)
+[2025-12-22 16:57:46] [INFO] POINT : ✅ Conforme (+-0.1 dB)
+[2025-12-22 16:57:46] [INFO] [B:41.5|M:28.7|A:19.9] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:46] [INFO] Play 2025-12-18_00h00_Audio.flac (+1206.7s)
+[2025-12-22 16:57:48] [INFO] POINT : ✅ Conforme (+-0.1 dB)
+[2025-12-22 16:57:48] [INFO] [B:41.5|M:28.7|A:19.9] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:48] [INFO] Play 2025-12-18_00h00_Audio.flac (+1208.3s)
+[2025-12-22 16:57:49] [INFO] POINT : ✅ Conforme (+-0.1 dB)
+[2025-12-22 16:57:49] [INFO] [B:40.8|M:28.6|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:49] [INFO] Play 2025-12-18_00h00_Audio.flac (+1214.1s)
+[2025-12-22 16:57:54] [INFO] POINT : ✅ Conforme (+0.2 dB)
+[2025-12-22 16:57:54] [INFO] [B:41.8|M:28.9|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:57:54] [INFO] Play 2025-12-18_00h00_Audio.flac (+1296.2s)
+[2025-12-22 16:58:11] [INFO] POINT : ✅ Conforme (+0.1 dB)
+[2025-12-22 16:58:11] [INFO] [B:41.5|M:28.8|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:58:11] [INFO] Play 2025-12-18_00h00_Audio.flac (+1293.5s)
+[2025-12-22 16:58:45] [INFO] POINT : ✅ Conforme (+0.4 dB)
+[2025-12-22 16:58:45] [INFO] [B:43.9|M:31.7|A:19.5] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:58:45] [INFO] Play 2025-12-17_17h00_Audio.flac (+1740.5s)
+[2025-12-22 16:58:52] [INFO] POINT : ✅ Conforme (+-0.2 dB)
+[2025-12-22 16:58:52] [INFO] [B:42.6|M:28.7|A:19.5] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:58:52] [INFO] Play 2025-12-17_17h00_Audio.flac (+3104.5s)
+[2025-12-22 16:58:55] [INFO] POINT : ✅ Conforme (+-0.3 dB)
+[2025-12-22 16:58:55] [INFO] [B:43.1|M:27.9|A:19.6] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:58:55] [INFO] Play 2025-12-17_18h00_Audio.flac (+594.1s)
+[2025-12-22 16:59:06] [INFO] POINT : ✅ Conforme (+-0.4 dB)
+[2025-12-22 16:59:06] [INFO] [B:40.1|M:27.7|A:19.6] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:06] [INFO] Play 2025-12-17_18h00_Audio.flac (+686.8s)
+[2025-12-22 16:59:10] [INFO] POINT : ⚠️ Émergence de +6.6 dB (vs Résiduel 27.9)
+[2025-12-22 16:59:10] [INFO] [B:42.5|M:36.4|A:25.4] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:10] [INFO] Play 2025-12-17_18h00_Audio.flac (+1393.1s)
+[2025-12-22 16:59:15] [INFO] POINT : ✅ Conforme (+1.5 dB)
+[2025-12-22 16:59:15] [INFO] [B:41.4|M:32.5|A:20.5] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:15] [INFO] Play 2025-12-17_20h00_Audio.flac (+3133.4s)
+[2025-12-22 16:59:24] [INFO] POINT : ✅ Conforme (+1.0 dB)
+[2025-12-22 16:59:24] [INFO] [B:43.9|M:31.4|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:24] [INFO] Play 2025-12-17_23h00_Audio.flac (+2290.5s)
+[2025-12-22 16:59:27] [INFO] POINT : ✅ Conforme (+0.4 dB)
+[2025-12-22 16:59:27] [INFO] [B:40.2|M:29.1|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:27] [INFO] Play 2025-12-18_00h00_Audio.flac (+271.6s)
+[2025-12-22 16:59:36] [INFO] POINT : ✅ Conforme (+0.1 dB)
+[2025-12-22 16:59:36] [INFO] [B:41.6|M:29.3|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:36] [INFO] Play 2025-12-18_00h00_Audio.flac (+1323.4s)
+[2025-12-22 16:59:41] [INFO] POINT : ✅ Conforme (+0.0 dB)
+[2025-12-22 16:59:41] [INFO] [B:41.3|M:28.8|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:41] [INFO] Play 2025-12-18_00h00_Audio.flac (+1210.9s)
+[2025-12-22 16:59:43] [INFO] POINT : ✅ Conforme (+0.4 dB)
+[2025-12-22 16:59:43] [INFO] [B:41.5|M:29.6|A:20.0] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:43] [INFO] Play 2025-12-18_00h00_Audio.flac (+1677.1s)
+[2025-12-22 16:59:50] [INFO] POINT : ✅ Conforme (+-0.2 dB)
+[2025-12-22 16:59:50] [INFO] [B:39.7|M:28.1|A:19.8] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:50] [INFO] Play 2025-12-18_01h00_Audio.flac (+481.1s)
+[2025-12-22 16:59:56] [INFO] POINT : ✅ Conforme (+-0.3 dB)
+[2025-12-22 16:59:56] [INFO] [B:38.1|M:27.9|A:19.9] 🛑 DOMINANTE BASSE (Vent/Moteur)
+[2025-12-22 16:59:56] [INFO] Play 2025-12-18_01h00_Audio.flac (+573.7s)
+[2025-12-22 17:02:16] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 17:02:16] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 17:02:16] [INFO] Système : Darwin 25.2.0
+[2025-12-22 17:02:16] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 17:02:16] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 17:02:16] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 17:02:16] [INFO] IA SYSTEM : [Cerveau IA V5.0 (Expert Acoustique)] : Prêt. Mode 'Émergence' activé (Jour +5dB / Nuit +3dB).
+[2025-12-22 17:02:16] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 17:02:16] [INFO] MainWindow : Cerveau 'Cerveau IA V5.0 (Expert Acoustique)' transmis au Dashboard.
+[2025-12-22 17:02:16] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 17:02:17] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 17:02:26] [INFO] Chargé.
+[2025-12-22 17:02:28] [INFO] ⏳ Calcul du Résiduel & Scan...
+[2025-12-22 17:02:28] [INFO] 📊 Résiduel (L90): 27.9 dB
+[2025-12-22 17:02:28] [INFO] 🔎 5663 dépassements.
+[2025-12-22 17:02:28] [INFO] 📉 Affichage de 346 marqueurs.
+[2025-12-22 17:12:45] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 17:12:53] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 17:12:53] [INFO] Système : Darwin 25.2.0
+[2025-12-22 17:12:53] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 17:12:53] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 17:12:53] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 17:12:53] [INFO] IA SYSTEM : [Cerveau IA V7.0 (Filtre Temporel)] : Prêt. Filtre durée active (> 60s).
+[2025-12-22 17:12:53] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 17:12:53] [INFO] MainWindow : Cerveau 'Cerveau IA V7.0 (Filtre Temporel)' transmis au Dashboard.
+[2025-12-22 17:12:53] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 17:12:53] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 17:13:08] [INFO] Chargé.
+[2025-12-22 17:13:11] [INFO] ⏳ Scan EXPERT (Filtre > 60s)...
+[2025-12-22 17:13:11] [INFO] 📊 Résiduel (L90): 27.9 dB
+[2025-12-22 17:13:11] [INFO] 🔎 3877 secondes d'émergence VALIDÉE (longue durée).
+[2025-12-22 17:13:49] [INFO] POINT : Conforme
+[2025-12-22 17:13:49] [INFO] [B:41.0|M:30.0|A:19.9] (Basse)
+[2025-12-22 17:13:49] [INFO] Play 2025-12-18_04h00_Audio.flac (+1230.4s)
+[2025-12-22 17:14:43] [INFO] POINT : Émergence: +3.3 dB
+[2025-12-22 17:14:43] [INFO] [B:45.8|M:35.6|A:19.6] (Basse)
+[2025-12-22 17:14:43] [INFO] Play 2025-12-18_03h00_Audio.flac (+3490.7s)
+[2025-12-22 17:14:53] [INFO] POINT : Conforme
+[2025-12-22 17:14:53] [INFO] [B:42.8|M:29.3|A:19.9] (Basse)
+[2025-12-22 17:14:53] [INFO] Play 2025-12-18_04h00_Audio.flac (+111.9s)
+[2025-12-22 17:14:57] [INFO] POINT : Conforme
+[2025-12-22 17:14:57] [INFO] [B:40.4|M:29.1|A:20.0] (Basse)
+[2025-12-22 17:14:57] [INFO] Play 2025-12-18_04h00_Audio.flac (+826.9s)
+[2025-12-22 17:15:12] [INFO] POINT : Émergence: +5.0 dB
+[2025-12-22 17:15:12] [INFO] [B:51.6|M:34.5|A:20.2] (Basse)
+[2025-12-22 17:15:12] [INFO] Play 2025-12-18_07h00_Audio.flac (+3373.1s)
+[2025-12-22 17:15:13] [INFO] POINT : Émergence: +4.1 dB
+[2025-12-22 17:15:13] [INFO] [B:50.8|M:34.6|A:19.9] (Basse)
+[2025-12-22 17:15:13] [INFO] Play 2025-12-18_07h00_Audio.flac (+3318.7s)
+[2025-12-22 17:15:21] [INFO] POINT : Émergence: +5.2 dB
+[2025-12-22 17:15:21] [INFO] [B:51.3|M:34.1|A:20.1] (Basse)
+[2025-12-22 17:15:21] [INFO] Play 2025-12-18_07h00_Audio.flac (+3386.7s)
+[2025-12-22 17:15:23] [INFO] POINT : Émergence: +5.9 dB
+[2025-12-22 17:15:23] [INFO] [B:52.2|M:34.2|A:19.8] (Basse)
+[2025-12-22 17:15:23] [INFO] Play 2025-12-18_07h00_Audio.flac (+3441.1s)
+[2025-12-22 17:15:27] [INFO] POINT : Émergence: +7.5 dB
+[2025-12-22 17:15:27] [INFO] [B:54.9|M:37.0|A:23.3] (Basse)
+[2025-12-22 17:15:27] [INFO] Play 2025-12-18_07h00_Audio.flac (+3495.6s)
+[2025-12-22 17:15:29] [INFO] POINT : Émergence: +5.4 dB
+[2025-12-22 17:15:29] [INFO] [B:51.7|M:34.2|A:20.1] (Basse)
+[2025-12-22 17:15:29] [INFO] Play 2025-12-18_08h00_Audio.flac (+193.7s)
+[2025-12-22 17:15:30] [INFO] POINT : Émergence: +8.1 dB
+[2025-12-22 17:15:30] [INFO] [B:51.8|M:37.0|A:20.8] (Basse)
+[2025-12-22 17:15:30] [INFO] Play 2025-12-18_08h00_Audio.flac (+588.3s)
+[2025-12-22 17:15:42] [INFO] POINT : Conforme
+[2025-12-22 17:15:42] [INFO] [B:46.9|M:33.6|A:19.6] (Basse)
+[2025-12-22 17:15:42] [INFO] Play 2025-12-18_07h00_Audio.flac (+1263.1s)
+[2025-12-22 17:15:44] [INFO] [Cerveau IA V7.0 (Filtre Temporel)] : Prêt. Filtre durée active (> 60s).
+[2025-12-22 17:15:45] [INFO] [Cerveau IA V7.0 (Filtre Temporel)] : Prêt. Filtre durée active (> 60s).
+[2025-12-22 17:15:46] [INFO] [Cerveau IA V7.0 (Filtre Temporel)] : Prêt. Filtre durée active (> 60s).
+[2025-12-22 22:32:54] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 22:32:55] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 22:32:55] [INFO] Système : Darwin 25.2.0
+[2025-12-22 22:32:55] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 22:32:55] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 22:32:55] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 22:32:55] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 22:32:56] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 22:32:56] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 22:32:56] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 22:32:56] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 22:33:07] [INFO] Chargé.
+[2025-12-22 22:33:16] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:33:16] [INFO] 📊 Résiduels (L90): Jour 28.0 dB | Nuit 27.9 dB
+[2025-12-22 22:33:16] [INFO] 🔎 1644 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:33:58] [INFO] POINT : 28.2 dB
+[2025-12-22 22:33:58] [INFO] [B:44.4|M:28.8|A:19.5] (Basse)
+[2025-12-22 22:33:58] [INFO] Play 2025-12-17_15h00_Audio.flac (+2807.8s)
+[2025-12-22 22:34:02] [INFO] POINT : 34.0 dB
+[2025-12-22 22:34:02] [INFO] [B:52.3|M:34.9|A:20.3] (Basse)
+[2025-12-22 22:34:02] [INFO] Play 2025-12-18_08h00_Audio.flac (+64.3s)
+[2025-12-22 22:34:08] [INFO] POINT : 28.2 dB
+[2025-12-22 22:34:08] [INFO] [B:35.9|M:29.3|A:19.7] (Basse)
+[2025-12-22 22:34:08] [INFO] Play 2025-12-17_22h00_Audio.flac (+3219.1s)
+[2025-12-22 22:35:15] [INFO] POINT : 27.8 dB
+[2025-12-22 22:35:15] [INFO] [B:40.8|M:28.4|A:20.0] (Basse)
+[2025-12-22 22:35:15] [INFO] Play 2025-12-18_01h00_Audio.flac (+405.9s)
+[2025-12-22 22:35:20] [INFO] POINT : 27.9 dB
+[2025-12-22 22:35:20] [INFO] [B:38.1|M:28.1|A:19.8] (Basse)
+[2025-12-22 22:35:20] [INFO] Play 2025-12-18_01h00_Audio.flac (+2508.8s)
+[2025-12-22 22:35:23] [INFO] POINT : 27.9 dB
+[2025-12-22 22:35:23] [INFO] [B:40.4|M:28.7|A:19.8] (Basse)
+[2025-12-22 22:35:23] [INFO] Play 2025-12-18_02h00_Audio.flac (+1053.4s)
+[2025-12-22 22:35:32] [INFO] POINT : 27.9 dB
+[2025-12-22 22:35:32] [INFO] [B:42.0|M:29.0|A:19.8] (Basse)
+[2025-12-22 22:35:32] [INFO] Play 2025-12-18_02h00_Audio.flac (+2405.3s)
+[2025-12-22 22:35:55] [INFO] Chargé.
+[2025-12-22 22:36:13] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 22:36:14] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 22:36:14] [INFO] Système : Darwin 25.2.0
+[2025-12-22 22:36:14] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 22:36:14] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 22:36:14] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 22:36:14] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 22:36:14] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 22:36:14] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 22:36:14] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 22:36:14] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 22:36:24] [INFO] Chargé.
+[2025-12-22 22:36:31] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:36:31] [INFO] 📊 Résiduels (L90): Jour 28.9 dB | Nuit 28.2 dB
+[2025-12-22 22:36:31] [INFO] 🔎 1949 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:37:31] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:37:31] [INFO] 📊 Résiduels (L90): Jour 28.9 dB | Nuit 28.2 dB
+[2025-12-22 22:37:31] [INFO] 🔎 1949 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:37:32] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:37:32] [INFO] 📊 Résiduels (L90): Jour 28.9 dB | Nuit 28.2 dB
+[2025-12-22 22:37:32] [INFO] 🔎 1949 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:37:45] [INFO] POINT : 30.2 dB
+[2025-12-22 22:37:45] [INFO] [B:43.6|M:33.1|A:19.9] (Basse)
+[2025-12-22 22:37:45] [INFO] Play 2025-12-22_17h00_Audio.flac (+3575.9s)
+[2025-12-22 22:37:47] [INFO] POINT : 42.4 dB
+[2025-12-22 22:37:47] [INFO] [B:51.2|M:43.2|A:34.4] (Basse)
+[2025-12-22 22:37:47] [INFO] Play 2025-12-22_18h00_Audio.flac (+353.9s)
+[2025-12-22 22:37:58] [INFO] POINT : 41.5 dB
+[2025-12-22 22:37:58] [INFO] [B:50.5|M:42.0|A:34.2] (Basse)
+[2025-12-22 22:37:58] [INFO] Play 2025-12-22_19h00_Audio.flac (+2276.0s)
+[2025-12-22 22:38:01] [INFO] POINT : 41.0 dB
+[2025-12-22 22:38:01] [INFO] [B:50.2|M:41.5|A:34.5] (Basse)
+[2025-12-22 22:38:01] [INFO] Play 2025-12-22_19h00_Audio.flac (+3291.5s)
+[2025-12-22 22:38:04] [INFO] POINT : 42.3 dB
+[2025-12-22 22:38:04] [INFO] [B:52.0|M:43.3|A:33.8] (Basse)
+[2025-12-22 22:38:04] [INFO] Play 2025-12-22_18h00_Audio.flac (+436.3s)
+[2025-12-22 22:38:06] [INFO] POINT : 42.6 dB
+[2025-12-22 22:38:06] [INFO] [B:51.5|M:44.6|A:34.1] (Basse)
+[2025-12-22 22:38:06] [INFO] Play 2025-12-22_18h00_Audio.flac (+108.7s)
+[2025-12-22 22:38:12] [INFO] POINT : 41.7 dB
+[2025-12-22 22:38:12] [INFO] [B:49.9|M:42.4|A:34.6] (Basse)
+[2025-12-22 22:38:12] [INFO] Play 2025-12-22_18h00_Audio.flac (+3283.4s)
+[2025-12-22 22:38:27] [INFO] 🎓 Appris : PAC/VMC
+[2025-12-22 22:38:39] [INFO] POINT : 41.9 dB
+[2025-12-22 22:38:39] [INFO] [B:50.8|M:42.8|A:33.8] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:38:39] [INFO] Play 2025-12-22_18h00_Audio.flac (+1578.2s)
+[2025-12-22 22:38:44] [INFO] POINT : 35.7 dB
+[2025-12-22 22:38:44] [INFO] [B:49.6|M:38.5|A:24.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:38:44] [INFO] Play 2025-12-22_13h00_Audio.flac (+1273.2s)
+[2025-12-22 22:38:52] [INFO] POINT : 32.4 dB
+[2025-12-22 22:38:52] [INFO] [B:43.1|M:35.0|A:20.6] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:38:52] [INFO] Play 2025-12-22_14h00_Audio.flac (+533.5s)
+[2025-12-22 22:38:55] [INFO] POINT : 30.8 dB
+[2025-12-22 22:38:55] [INFO] [B:44.6|M:35.2|A:20.0] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:38:55] [INFO] Play 2025-12-22_12h00_Audio.flac (+3520.4s)
+[2025-12-22 22:38:59] [INFO] POINT : 31.6 dB
+[2025-12-22 22:38:59] [INFO] [B:47.3|M:33.3|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:38:59] [INFO] Play 2025-12-22_13h00_Audio.flac (+470.8s)
+[2025-12-22 22:39:01] [INFO] POINT : 31.6 dB
+[2025-12-22 22:39:01] [INFO] [B:47.3|M:33.3|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:01] [INFO] Play 2025-12-22_13h00_Audio.flac (+470.8s)
+[2025-12-22 22:39:02] [INFO] POINT : 31.6 dB
+[2025-12-22 22:39:02] [INFO] [B:47.3|M:33.3|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:02] [INFO] Play 2025-12-22_13h00_Audio.flac (+470.8s)
+[2025-12-22 22:39:09] [INFO] POINT : 31.3 dB
+[2025-12-22 22:39:09] [INFO] [B:44.2|M:33.2|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:09] [INFO] Play 2025-12-22_09h00_Audio.flac (+2234.7s)
+[2025-12-22 22:39:11] [INFO] POINT : 32.3 dB
+[2025-12-22 22:39:11] [INFO] [B:43.8|M:32.8|A:22.9] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:11] [INFO] Play 2025-12-22_09h00_Audio.flac (+2736.2s)
+[2025-12-22 22:39:14] [INFO] POINT : 31.6 dB
+[2025-12-22 22:39:14] [INFO] [B:44.4|M:31.8|A:20.1] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:14] [INFO] Play 2025-12-22_08h00_Audio.flac (+2824.0s)
+[2025-12-22 22:39:26] [INFO] POINT : 30.9 dB
+[2025-12-22 22:39:26] [INFO] [B:43.0|M:33.0|A:19.9] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:26] [INFO] Play 2025-12-22_08h00_Audio.flac (+2924.3s)
+[2025-12-22 22:39:39] [INFO] POINT : 36.4 dB
+[2025-12-22 22:39:39] [INFO] [B:50.6|M:42.3|A:24.1] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:39] [INFO] Play 2025-12-22_13h00_Audio.flac (+1724.6s)
+[2025-12-22 22:39:43] [INFO] POINT : 33.5 dB
+[2025-12-22 22:39:43] [INFO] [B:48.5|M:36.9|A:20.0] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:43] [INFO] Play 2025-12-22_13h00_Audio.flac (+1223.1s)
+[2025-12-22 22:39:50] [INFO] POINT : 30.7 dB
+[2025-12-22 22:39:50] [INFO] [B:46.8|M:31.5|A:21.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:39:50] [INFO] Play 2025-12-22_16h00_Audio.flac (+555.9s)
+[2025-12-22 22:40:07] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 22:40:08] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 22:40:08] [INFO] Système : Darwin 25.2.0
+[2025-12-22 22:40:08] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 22:40:08] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 22:40:08] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 22:40:08] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 22:40:08] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 22:40:08] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 22:40:08] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 22:40:08] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 22:40:33] [INFO] Chargé.
+[2025-12-22 22:40:39] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:40:39] [INFO] 📊 Résiduels (L90): Jour 28.2 dB | Nuit 27.0 dB
+[2025-12-22 22:40:39] [INFO] 🔎 1034 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:40:49] [INFO] POINT : 42.4 dB
+[2025-12-22 22:40:49] [INFO] [B:50.5|M:43.4|A:34.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:40:49] [INFO] Play 2025-12-19_23h00_Audio.flac (+14.6s)
+[2025-12-22 22:40:52] [INFO] POINT : 42.0 dB
+[2025-12-22 22:40:52] [INFO] [B:51.3|M:42.5|A:34.8] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:40:52] [INFO] Play 2025-12-19_23h00_Audio.flac (+370.2s)
+[2025-12-22 22:40:53] [INFO] POINT : 41.7 dB
+[2025-12-22 22:40:53] [INFO] [B:51.3|M:41.2|A:36.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:40:53] [INFO] Play 2025-12-19_23h00_Audio.flac (+923.2s)
+[2025-12-22 22:40:55] [INFO] POINT : 41.1 dB
+[2025-12-22 22:40:55] [INFO] [B:51.3|M:41.2|A:35.1] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:40:55] [INFO] Play 2025-12-19_23h00_Audio.flac (+1199.8s)
+[2025-12-22 22:41:09] [INFO] POINT : 27.9 dB
+[2025-12-22 22:41:09] [INFO] [B:37.5|M:29.6|A:19.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:09] [INFO] Play 2025-12-20_03h00_Audio.flac (+2402.4s)
+[2025-12-22 22:41:11] [INFO] POINT : 27.5 dB
+[2025-12-22 22:41:11] [INFO] [B:36.7|M:28.1|A:19.1] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:11] [INFO] Play 2025-12-20_03h00_Audio.flac (+2283.9s)
+[2025-12-22 22:41:12] [INFO] POINT : 28.9 dB
+[2025-12-22 22:41:12] [INFO] [B:40.4|M:31.0|A:19.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:12] [INFO] Play 2025-12-20_05h00_Audio.flac (+2156.0s)
+[2025-12-22 22:41:14] [INFO] POINT : 28.2 dB
+[2025-12-22 22:41:14] [INFO] [B:39.5|M:29.7|A:19.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:14] [INFO] Play 2025-12-20_06h00_Audio.flac (+885.5s)
+[2025-12-22 22:41:15] [INFO] POINT : 28.7 dB
+[2025-12-22 22:41:15] [INFO] [B:39.4|M:30.2|A:19.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:15] [INFO] Play 2025-12-20_06h00_Audio.flac (+2584.3s)
+[2025-12-22 22:41:17] [INFO] POINT : 27.7 dB
+[2025-12-22 22:41:17] [INFO] [B:36.4|M:28.7|A:19.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:17] [INFO] Play 2025-12-20_07h00_Audio.flac (+763.7s)
+[2025-12-22 22:41:19] [INFO] POINT : 29.2 dB
+[2025-12-22 22:41:19] [INFO] [B:38.4|M:30.9|A:19.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:19] [INFO] Play 2025-12-20_07h00_Audio.flac (+3450.1s)
+[2025-12-22 22:41:21] [INFO] POINT : 38.0 dB
+[2025-12-22 22:41:21] [INFO] [B:41.5|M:31.4|A:20.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:21] [INFO] Play 2025-12-20_09h00_Audio.flac (+595.9s)
+[2025-12-22 22:41:23] [INFO] POINT : 30.5 dB
+[2025-12-22 22:41:23] [INFO] [B:42.2|M:32.3|A:20.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:23] [INFO] Play 2025-12-20_09h00_Audio.flac (+2768.7s)
+[2025-12-22 22:41:26] [INFO] POINT : 30.2 dB
+[2025-12-22 22:41:26] [INFO] [B:42.1|M:34.5|A:19.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:26] [INFO] Play 2025-12-20_11h00_Audio.flac (+1178.7s)
+[2025-12-22 22:41:37] [INFO] POINT : 34.6 dB
+[2025-12-22 22:41:37] [INFO] [B:53.5|M:37.2|A:20.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:37] [INFO] Play 2025-12-20_23h00_Audio.flac (+1968.7s)
+[2025-12-22 22:41:40] [INFO] POINT : 34.9 dB
+[2025-12-22 22:41:40] [INFO] [B:54.3|M:36.5|A:20.9] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:40] [INFO] Play 2025-12-20_23h00_Audio.flac (+2265.0s)
+[2025-12-22 22:41:43] [INFO] POINT : 28.4 dB
+[2025-12-22 22:41:43] [INFO] [B:39.3|M:29.5|A:20.0] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:43] [INFO] Play 2025-12-20_23h00_Audio.flac (+2363.7s)
+[2025-12-22 22:41:52] [INFO] POINT : 28.5 dB
+[2025-12-22 22:41:52] [INFO] [B:35.2|M:29.2|A:19.9] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:41:52] [INFO] Play 2025-12-20_23h00_Audio.flac (+1810.6s)
+[2025-12-22 22:42:54] [INFO] POINT : 33.9 dB
+[2025-12-22 22:42:54] [INFO] [B:46.7|M:40.4|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:42:54] [INFO] Play 2025-12-20_23h00_Audio.flac (+1889.6s)
+[2025-12-22 22:43:21] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 22:43:22] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 22:43:22] [INFO] Système : Darwin 25.2.0
+[2025-12-22 22:43:22] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 22:43:22] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 22:43:22] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 22:43:22] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 22:43:22] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 22:43:22] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 22:43:22] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 22:43:22] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 22:44:03] [INFO] Chargé.
+[2025-12-22 22:44:06] [INFO] ⏳ Scan EXPERT (Filtre PAC > 15min)...
+[2025-12-22 22:44:06] [INFO] 📊 Résiduels (L90): Jour 30.1 dB | Nuit 0.0 dB
+[2025-12-22 22:44:06] [INFO] 🔎 0 secondes d'émergence (Longue durée uniquement).
+[2025-12-22 22:44:14] [INFO] POINT : 35.1 dB
+[2025-12-22 22:44:14] [INFO] [B:55.2|M:34.9|A:20.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:14] [INFO] Play 2025-12-16_10h09_Audio.flac (+1231.9s)
+[2025-12-22 22:44:18] [INFO] POINT : 34.8 dB
+[2025-12-22 22:44:18] [INFO] [B:53.1|M:39.0|A:21.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:18] [INFO] Play 2025-12-16_10h09_Audio.flac (+2116.1s)
+[2025-12-22 22:44:20] [INFO] POINT : 34.4 dB
+[2025-12-22 22:44:20] [INFO] [B:52.6|M:36.5|A:20.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:20] [INFO] Play 2025-12-16_10h09_Audio.flac (+2447.7s)
+[2025-12-22 22:44:20] [INFO] POINT : 35.4 dB
+[2025-12-22 22:44:20] [INFO] [B:56.0|M:36.0|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:20] [INFO] Play 2025-12-16_10h09_Audio.flac (+2951.3s)
+[2025-12-22 22:44:24] [INFO] POINT : 29.2 dB
+[2025-12-22 22:44:24] [INFO] [B:46.6|M:30.7|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:24] [INFO] Play 2025-12-16_11h00_Audio.flac (+631.2s)
+[2025-12-22 22:44:28] [INFO] POINT : 36.1 dB
+[2025-12-22 22:44:28] [INFO] [B:59.6|M:39.8|A:20.7] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:28] [INFO] Play 2025-12-16_11h00_Audio.flac (+133.8s)
+[2025-12-22 22:44:32] [INFO] POINT : 36.0 dB
+[2025-12-22 22:44:32] [INFO] [B:55.1|M:34.9|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:32] [INFO] Play 2025-12-16_10h09_Audio.flac (+1170.4s)
+[2025-12-22 22:44:34] [INFO] POINT : 34.9 dB
+[2025-12-22 22:44:34] [INFO] [B:54.2|M:35.6|A:20.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:34] [INFO] Play 2025-12-16_10h09_Audio.flac (+1833.7s)
+[2025-12-22 22:44:37] [INFO] POINT : 34.7 dB
+[2025-12-22 22:44:37] [INFO] [B:53.8|M:35.1|A:20.6] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:37] [INFO] Play 2025-12-16_10h09_Audio.flac (+2232.8s)
+[2025-12-22 22:44:39] [INFO] POINT : 35.1 dB
+[2025-12-22 22:44:39] [INFO] [B:55.0|M:36.5|A:20.8] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:39] [INFO] Play 2025-12-16_10h09_Audio.flac (+2957.4s)
+[2025-12-22 22:44:43] [INFO] POINT : 30.6 dB
+[2025-12-22 22:44:43] [INFO] [B:48.8|M:33.5|A:20.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:43] [INFO] Play 2025-12-16_10h09_Audio.flac (+519.5s)
+[2025-12-22 22:44:45] [INFO] POINT : 31.1 dB
+[2025-12-22 22:44:45] [INFO] [B:48.2|M:36.1|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:44:45] [INFO] Play 2025-12-16_10h09_Audio.flac (+556.4s)
+[2025-12-22 22:45:02] [INFO] POINT : 35.8 dB
+[2025-12-22 22:45:02] [INFO] [B:55.4|M:34.7|A:20.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:02] [INFO] Play 2025-12-16_10h09_Audio.flac (+1168.8s)
+[2025-12-22 22:45:07] [INFO] POINT : 34.7 dB
+[2025-12-22 22:45:07] [INFO] [B:53.6|M:35.5|A:20.6] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:07] [INFO] Play 2025-12-16_10h09_Audio.flac (+2205.1s)
+[2025-12-22 22:45:10] [INFO] POINT : 33.8 dB
+[2025-12-22 22:45:10] [INFO] [B:52.2|M:36.9|A:20.6] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:10] [INFO] Play 2025-12-16_10h09_Audio.flac (+2681.9s)
+[2025-12-22 22:45:12] [INFO] POINT : 35.2 dB
+[2025-12-22 22:45:12] [INFO] [B:54.3|M:35.8|A:21.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:12] [INFO] Play 2025-12-16_10h09_Audio.flac (+2910.8s)
+[2025-12-22 22:45:15] [INFO] POINT : 31.7 dB
+[2025-12-22 22:45:15] [INFO] [B:51.0|M:35.0|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:15] [INFO] Play 2025-12-16_11h00_Audio.flac (+2854.5s)
+[2025-12-22 22:45:20] [INFO] POINT : 31.7 dB
+[2025-12-22 22:45:20] [INFO] [B:51.3|M:35.3|A:20.4] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:20] [INFO] Play 2025-12-16_11h00_Audio.flac (+1614.8s)
+[2025-12-22 22:45:26] [INFO] POINT : 31.6 dB
+[2025-12-22 22:45:26] [INFO] [B:52.3|M:35.0|A:20.6] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:45:26] [INFO] Play 2025-12-16_11h00_Audio.flac (+2873.5s)
+[2025-12-22 22:46:56] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 22:46:57] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 22:46:57] [INFO] Système : Darwin 25.2.0
+[2025-12-22 22:46:57] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 22:46:57] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 22:46:58] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 22:46:58] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 22:46:58] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 22:46:58] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 22:46:58] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 22:46:58] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 22:47:39] [INFO] Chargé.
+[2025-12-22 22:47:41] [INFO] ⏳ Scan EXPERT (Filtre > 15min)...
+[2025-12-22 22:47:41] [INFO] 📊 Résiduels: J 30.1 | N 0.0 dB
+[2025-12-22 22:47:41] [INFO] 🔎 0 événements majeurs trouvés.
+[2025-12-22 22:47:44] [INFO] ⏳ Scan EXPERT (Filtre > 15min)...
+[2025-12-22 22:47:44] [INFO] 📊 Résiduels: J 30.1 | N 0.0 dB
+[2025-12-22 22:47:44] [INFO] 🔎 0 événements majeurs trouvés.
+[2025-12-22 22:48:20] [INFO] Chargé.
+[2025-12-22 22:48:22] [INFO] ⏳ Scan EXPERT (Filtre > 15min)...
+[2025-12-22 22:48:22] [INFO] 📊 Résiduels: J 28.9 | N 28.2 dB
+[2025-12-22 22:48:22] [INFO] 🔎 2 événements majeurs trouvés.
+[2025-12-22 22:48:22] [INFO] 💡 Utilisez '>>' pour inspecter le premier événement.
+[2025-12-22 22:48:28] [INFO] 🧐 INSPECTION : [B:53.0|M:44.4|A:33.9] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:48:33] [INFO] 🧐 INSPECTION : [B:50.8|M:43.3|A:33.7] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:48:35] [INFO] 🧐 INSPECTION : [B:44.9|M:31.7|A:19.7] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:48:51] [INFO] 🧐 INSPECTION : [B:51.4|M:43.4|A:33.5] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:48:52] [INFO] 🧐 INSPECTION : [B:54.2|M:43.2|A:33.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:49:51] [INFO] 🧐 INSPECTION : [B:52.1|M:43.3|A:34.3] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 22:51:10] [INFO] 🧐 INSPECTION : [B:51.0|M:43.2|A:34.2] (Basse) 👉 IA : PAC/VMC
+[2025-12-22 23:10:34] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:10:36] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:10:36] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:10:36] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:10:36] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:10:36] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:10:36] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:10:36] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:10:36] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:10:36] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:10:36] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:10:53] [INFO] Chargé : enrg_20251221_220004.csv (28765 pts)
+[2025-12-22 23:11:23] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:11:23] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:11:23] [INFO] Trouvé 2 événements.
+[2025-12-22 23:12:12] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-22 23:12:55] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-22 23:13:05] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-22 23:13:45] [INFO] Appris : Autre
+[2025-12-22 23:13:54] [INFO] Appris : Autre
+[2025-12-22 23:14:00] [INFO] Event 1 (3994s)
+[2025-12-22 23:14:13] [INFO] Appris : Autre
+[2025-12-22 23:14:15] [INFO] Event 2 (1853s)
+[2025-12-22 23:14:21] [INFO] Appris : Autre
+[2025-12-22 23:17:34] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:17:35] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:17:35] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:17:35] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:17:35] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:17:35] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:17:35] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:17:35] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:17:35] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:17:35] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:17:36] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:17:56] [INFO] Chargé : enrg_20251219_220003.csv (41949 pts)
+[2025-12-22 23:18:13] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:18:13] [INFO] Résiduels : J 28.2 | N 27.0
+[2025-12-22 23:18:13] [INFO] Trouvé 2 événements.
+[2025-12-22 23:23:51] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:23:52] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:23:52] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:23:52] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:23:52] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:23:52] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:23:52] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:23:52] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:23:52] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:23:52] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:23:52] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:24:03] [INFO] Chargé : enrg_20251221_220004.csv (28765 pts)
+[2025-12-22 23:25:31] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:25:31] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:25:31] [INFO] Trouvé 2 événements.
+[2025-12-22 23:25:56] [INFO] Appris : Autre
+[2025-12-22 23:26:15] [INFO] Event 1 (3994s)
+[2025-12-22 23:26:31] [INFO] Appris : Autre
+[2025-12-22 23:26:32] [INFO] Event 2 (1853s)
+[2025-12-22 23:26:39] [INFO] Appris : Autre
+[2025-12-22 23:31:18] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:31:18] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:31:18] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:31:18] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:31:18] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:31:19] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:31:19] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:31:19] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:31:19] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:31:19] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:31:19] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:32:31] [INFO] Err: '-'
+[2025-12-22 23:35:09] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:35:10] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:35:10] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:35:10] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:35:10] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:35:10] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:35:10] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:35:10] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:35:10] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:35:10] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:35:10] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:35:24] [INFO] Err: '-'
+[2025-12-22 23:39:21] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:39:21] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:39:21] [INFO] Trouvé 2 événements.
+[2025-12-22 23:39:34] [INFO] Event 1 (3994s)
+[2025-12-22 23:39:35] [INFO] Event 2 (1853s)
+[2025-12-22 23:40:47] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:40:48] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:40:48] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:40:48] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:40:48] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:40:48] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:40:48] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:40:48] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:40:48] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:40:48] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:40:48] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:40:57] [INFO] Chargé : enrg_20251221_220004.csv (28765 pts)
+[2025-12-22 23:42:45] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:42:45] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:42:45] [INFO] Trouvé 2 événements.
+[2025-12-22 23:46:44] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:46:45] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:46:45] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:46:45] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:46:45] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:46:45] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:46:45] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:46:46] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:46:46] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:46:46] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:46:46] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:46:53] [INFO] Chargé : enrg_20251221_220004.csv (28765 pts). Moyennes calculées.
+[2025-12-22 23:46:59] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:46:59] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:46:59] [INFO] Trouvé 2 événements.
+[2025-12-22 23:51:16] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-22 23:51:17] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-22 23:51:17] [INFO] Système : Darwin 25.2.0
+[2025-12-22 23:51:17] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-22 23:51:17] [INFO] Bibliothèques critiques chargées.
+[2025-12-22 23:51:17] [INFO] Initialisation de l'interface graphique...
+[2025-12-22 23:51:17] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-22 23:51:17] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-22 23:51:17] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-22 23:51:17] [INFO] MainWindow V2.6 initialisée.
+[2025-12-22 23:51:17] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-22 23:51:24] [INFO] Chargé : enrg_20251221_220004.csv.
+[2025-12-22 23:51:27] [INFO] ⏳ Scan EXPERT...
+[2025-12-22 23:51:27] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-22 23:51:27] [INFO] Trouvé 2 événements.
+[2025-12-25 20:06:04] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-25 20:06:05] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-25 20:06:05] [INFO] Système : Darwin 25.2.0
+[2025-12-25 20:06:05] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-25 20:06:05] [INFO] Bibliothèques critiques chargées.
+[2025-12-25 20:06:05] [INFO] Initialisation de l'interface graphique...
+[2025-12-25 20:06:05] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-25 20:06:05] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-25 20:06:05] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-25 20:06:05] [INFO] MainWindow V2.6 initialisée.
+[2025-12-25 20:06:05] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-25 20:06:18] [INFO] Chargé : enrg_20251221_220004.csv.
+[2025-12-25 20:06:46] [INFO] ⏳ Scan EXPERT...
+[2025-12-25 20:06:46] [INFO] Résiduels : J 28.9 | N 28.2
+[2025-12-25 20:06:46] [INFO] Trouvé 2 événements.
+[2025-12-25 20:07:36] [INFO] Event 1 (3994s)
+[2025-12-25 20:08:07] [INFO] Event 2 (1853s)
+[2025-12-26 11:55:30] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-26 11:55:48] [INFO] Chargé : enrg_20251221_220004.csv.
+[2025-12-26 11:56:23] [INFO] ⏳ Scan EXPERT Dual-Mode...
+[2025-12-26 11:56:23] [INFO] 🔴 Global: 2 évènements.
+[2025-12-26 11:56:23] [INFO] 🟣 Spectral: 2 évènements.
+[2025-12-26 11:56:54] [INFO] Event 1/4 (3994s)
+[2025-12-26 11:57:06] [INFO] Appris : Autre
+[2025-12-26 11:57:09] [INFO] Event 2/4 (3994s)
+[2025-12-26 11:57:14] [INFO] Appris : Autre
+[2025-12-26 11:57:45] [INFO] Chargé : enrg_20251219_220003.csv.
+[2025-12-26 11:58:06] [INFO] ⏳ Scan EXPERT Dual-Mode...
+[2025-12-26 11:58:06] [INFO] 🔴 Global: 2 évènements.
+[2025-12-26 11:58:06] [INFO] 🟣 Spectral: 4 évènements.
+[2025-12-26 11:58:35] [INFO] ⏳ Scan EXPERT Dual-Mode...
+[2025-12-26 11:58:35] [INFO] 🔴 Global: 2 évènements.
+[2025-12-26 11:58:38] [INFO] ⏳ Scan EXPERT Dual-Mode...
+[2025-12-26 11:58:39] [INFO] 🟣 Spectral: 4 évènements.
+[2025-12-27 11:56:38] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 11:56:39] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-27 11:56:39] [INFO] Système : Darwin 25.2.0
+[2025-12-27 11:56:39] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-27 11:56:39] [INFO] Bibliothèques critiques chargées.
+[2025-12-27 11:56:39] [INFO] Initialisation de l'interface graphique...
+[2025-12-27 11:56:39] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-27 11:56:39] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-27 11:56:39] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-27 11:56:39] [INFO] MainWindow V2.6 initialisée.
+[2025-12-27 11:56:39] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-27 12:02:31] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 12:02:44] [INFO] ⏳ Scan EXPERT Dual-Mode...
+[2025-12-27 12:02:44] [INFO] 🔴 Global: 3 évènements.
+[2025-12-27 12:02:44] [INFO] 🟣 Spectral: 5 évènements.
+[2025-12-27 12:03:05] [INFO] Event 1/8 (1423s)
+[2025-12-27 12:03:25] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-27 12:03:27] [INFO] Event 2/8 (1904s)
+[2025-12-27 12:03:50] [INFO] Appris : Autre
+[2025-12-27 12:03:52] [INFO] Event 3/8 (1931s)
+[2025-12-27 12:04:05] [INFO] Appris : Autre
+[2025-12-27 12:04:09] [INFO] Event 4/8 (1366s)
+[2025-12-27 12:04:28] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-27 12:04:32] [INFO] Event 5/8 (2979s)
+[2025-12-27 12:05:10] [INFO] Appris : Autre
+[2025-12-27 12:05:15] [INFO] Event 6/8 (2979s)
+[2025-12-27 12:05:20] [INFO] Appris : Autre
+[2025-12-27 12:05:23] [INFO] Event 7/8 (1910s)
+[2025-12-27 12:05:30] [INFO] Appris : Autre
+[2025-12-27 12:05:37] [INFO] Event 8/8 (1907s)
+[2025-12-27 12:05:46] [INFO] Appris : Autre
+[2025-12-27 12:13:13] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 12:13:26] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 12:13:30] [INFO] ⏳ Scan EXPERT V9.6 (Max Basses)...
+[2025-12-27 12:13:30] [INFO] 🔴 Global: 3 évènements.
+[2025-12-27 12:13:30] [INFO] 🟣 Spectral (Max): 6 évènements.
+[2025-12-27 13:34:37] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 13:34:48] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 13:35:02] [INFO] ⏳ Scan EXPERT V9.7 (Min. Glissant)...
+[2025-12-27 13:35:02] [INFO] 🔴 Global: 3 events (Seuils: J28.5/N28.7)
+[2025-12-27 13:35:02] [INFO] 🟣 Spectral: 23 events.
+[2025-12-27 13:35:10] [INFO] Event 1/26 (2003s)
+[2025-12-27 13:35:39] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-27 13:35:42] [INFO] Event 2/26 (2571s)
+[2025-12-27 13:35:49] [INFO] Appris : Autre
+[2025-12-27 13:35:51] [INFO] Event 3/26 (1904s)
+[2025-12-27 13:35:57] [INFO] Appris : Autre
+[2025-12-27 13:35:59] [INFO] Event 4/26 (2105s)
+[2025-12-27 13:39:08] [INFO] Event 5/26 (1594s)
+[2025-12-27 13:39:18] [INFO] Event 6/26 (1639s)
+[2025-12-27 13:39:20] [INFO] Event 7/26 (2444s)
+[2025-12-27 13:39:24] [INFO] Event 8/26 (1943s)
+[2025-12-27 13:39:27] [INFO] Event 9/26 (3219s)
+[2025-12-27 13:39:35] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-27 13:39:46] [INFO] Event 10/26 (3850s)
+[2025-12-27 13:39:51] [INFO] Appris : PAC/VMC (Stationnaire)
+[2025-12-27 13:39:52] [INFO] Event 11/26 (5628s)
+[2025-12-27 13:45:25] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 13:45:34] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 13:45:35] [INFO] ⏳ Scan EXPERT V9.7 (Min. Glissant)...
+[2025-12-27 13:45:35] [INFO] 🔴 Global: 3 events (Seuils: J28.5/N28.7)
+[2025-12-27 13:45:35] [INFO] 🟣 Spectral: 23 events.
+[2025-12-27 14:03:12] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 14:03:21] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 14:03:27] [INFO] ⏳ Scan EXPERT V9.7 (Min. Glissant)...
+[2025-12-27 14:03:27] [INFO] 🔴 Global: 3 events (Seuils: J28.5/N28.7)
+[2025-12-27 14:03:27] [INFO] 🟣 Spectral: 23 events.
+[2025-12-27 14:03:56] [INFO] Appris : Autre
+[2025-12-27 14:04:04] [INFO] Appris : Autre
+[2025-12-27 14:04:10] [INFO] Appris : Autre
+[2025-12-27 14:16:17] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 14:16:17] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-27 14:16:17] [INFO] Système : Darwin 25.2.0
+[2025-12-27 14:16:17] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-27 14:16:17] [INFO] Bibliothèques critiques chargées.
+[2025-12-27 14:16:17] [INFO] Initialisation de l'interface graphique...
+[2025-12-27 14:16:17] [INFO] IA SYSTEM : [Cerveau IA V9.7 (Smart Residuals)] : Prêt. Recherche du Vrai Silence active.
+[2025-12-27 14:16:18] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-27 14:16:18] [INFO] MainWindow : Cerveau 'Cerveau IA V9.7 (Smart Residuals)' transmis au Dashboard.
+[2025-12-27 14:16:18] [INFO] MainWindow V2.6 initialisée.
+[2025-12-27 14:16:18] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-27 14:16:31] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 14:16:41] [INFO] ⏳ Scan EXPERT V9.7 (Min. Glissant)...
+[2025-12-27 14:16:41] [INFO] 🔴 Global: 3 events (Seuils: J28.5/N28.7)
+[2025-12-27 14:16:41] [INFO] 🟣 Spectral: 23 events.
+[2025-12-27 14:16:46] [INFO] Event 1/26 (2003s)
+[2025-12-27 14:16:47] [INFO] Event 2/26 (2571s)
+[2025-12-27 14:16:48] [INFO] Event 3/26 (1904s)
+[2025-12-27 14:16:48] [INFO] Event 4/26 (2105s)
+[2025-12-27 14:16:48] [INFO] Event 5/26 (1594s)
+[2025-12-27 14:16:49] [INFO] Event 6/26 (1639s)
+[2025-12-27 14:16:50] [INFO] Event 7/26 (2444s)
+[2025-12-27 14:16:51] [INFO] Event 8/26 (1943s)
+[2025-12-27 14:16:52] [INFO] Event 9/26 (3219s)
+[2025-12-27 14:16:52] [INFO] Event 10/26 (3850s)
+[2025-12-27 14:16:53] [INFO] Event 11/26 (5628s)
+[2025-12-27 14:41:35] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 14:41:36] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-27 14:41:36] [INFO] Système : Darwin 25.2.0
+[2025-12-27 14:41:36] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-27 14:41:36] [INFO] Bibliothèques critiques chargées.
+[2025-12-27 14:41:36] [INFO] Initialisation de l'interface graphique...
+[2025-12-27 14:41:36] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-27 14:41:36] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-27 14:41:36] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-27 14:41:36] [INFO] MainWindow V2.6 initialisée.
+[2025-12-27 14:41:37] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-27 14:41:46] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 15:29:48] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 15:29:49] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-27 15:29:49] [INFO] Système : Darwin 25.2.0
+[2025-12-27 15:29:49] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-27 15:29:49] [INFO] Bibliothèques critiques chargées.
+[2025-12-27 15:29:49] [INFO] Initialisation de l'interface graphique...
+[2025-12-27 15:29:49] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-27 15:29:49] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-27 15:29:49] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-27 15:29:49] [INFO] MainWindow V2.6 initialisée.
+[2025-12-27 15:29:49] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-27 15:29:57] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 15:30:01] [INFO] ⏩ +1 min
+[2025-12-27 15:30:02] [INFO] ⏩ +1 min
+[2025-12-27 15:30:02] [INFO] ⏩ +1 min
+[2025-12-27 15:30:03] [INFO] ⏩ +1 min
+[2025-12-27 15:30:03] [INFO] ⏩ +1 min
+[2025-12-27 15:30:03] [INFO] ⏩ +1 min
+[2025-12-27 15:30:03] [INFO] ⏩ +1 min
+[2025-12-27 15:30:09] [INFO] ⏩ +1 min
+[2025-12-27 15:30:09] [INFO] ⏩ +1 min
+[2025-12-27 15:30:09] [INFO] ⏩ +1 min
+[2025-12-27 15:30:10] [INFO] ⏩ +1 min
+[2025-12-27 15:30:11] [INFO] ⏩ +1 min
+[2025-12-27 15:30:11] [INFO] ⏩ +1 min
+[2025-12-27 15:30:12] [INFO] ⏪ -1 min
+[2025-12-27 15:30:12] [INFO] ⏪ -1 min
+[2025-12-27 15:30:12] [INFO] ⏪ -1 min
+[2025-12-27 15:30:12] [INFO] ⏪ -1 min
+[2025-12-27 15:30:12] [INFO] ⏪ -1 min
+[2025-12-27 15:30:13] [INFO] ⏪ -1 min
+[2025-12-27 15:30:13] [INFO] ⏪ -1 min
+[2025-12-27 15:30:15] [INFO] ⏸ Pause
+[2025-12-27 15:30:16] [INFO] ▶ Lecture
+[2025-12-27 15:31:42] [INFO] ⏳ Scan EXPERT...
+[2025-12-27 15:31:42] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-27 15:31:42] [INFO] Trouvé 3 événements.
+[2025-12-27 15:35:58] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-27 15:35:59] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-27 15:35:59] [INFO] Système : Darwin 25.2.0
+[2025-12-27 15:35:59] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-27 15:35:59] [INFO] Bibliothèques critiques chargées.
+[2025-12-27 15:35:59] [INFO] Initialisation de l'interface graphique...
+[2025-12-27 15:35:59] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-27 15:35:59] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-27 15:35:59] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-27 15:35:59] [INFO] MainWindow V2.6 initialisée.
+[2025-12-27 15:35:59] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-27 15:36:07] [INFO] Charge 4 marqueurs manuels (ONYX).
+[2025-12-27 15:36:07] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-27 15:37:16] [INFO] ⏩ +1 min
+[2025-12-27 15:37:16] [INFO] ⏩ +1 min
+[2025-12-27 15:37:18] [INFO] ⏪ -1 min
+[2025-12-27 15:37:18] [INFO] ⏪ -1 min
+[2025-12-27 15:37:18] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:19] [INFO] ⏪ -1 min
+[2025-12-27 15:37:20] [INFO] ⏪ -1 min
+[2025-12-27 15:37:21] [INFO] ⏪ -1 min
+[2025-12-27 15:37:22] [INFO] ⏪ -1 min
+[2025-12-28 10:27:13] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:27:14] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:27:14] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:27:14] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:27:14] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:27:14] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:27:14] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:27:15] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:27:15] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:27:15] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:27:15] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:27:28] [INFO] Charge 4 marqueurs manuels (ONYX).
+[2025-12-28 10:27:28] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-28 10:27:51] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:27:51] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:27:51] [INFO] Trouvé 3 événements.
+[2025-12-28 10:32:43] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:32:44] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:32:44] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:32:44] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:32:44] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:32:44] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:32:44] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:32:44] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:32:44] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:32:44] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:32:44] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:32:55] [INFO] Charge 4 marqueurs manuels (ONYX).
+[2025-12-28 10:32:55] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-28 10:36:24] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:36:24] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:36:24] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:36:24] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:36:24] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:36:24] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:36:24] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:36:25] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:36:25] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:36:25] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:36:25] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:36:35] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 10:36:35] [INFO] Err: 'ClickableTextItem' object has no attribute 'setMouseEnabled'
+[2025-12-28 10:36:45] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:36:45] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:36:45] [INFO] Trouvé 3 événements.
+[2025-12-28 10:37:41] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:37:41] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:37:41] [INFO] Trouvé 3 événements.
+[2025-12-28 10:37:43] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:37:43] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:37:43] [INFO] Trouvé 3 événements.
+[2025-12-28 10:40:53] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:40:53] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:40:53] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:40:53] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:40:53] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:40:53] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:40:53] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:40:53] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:40:53] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:40:53] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:40:54] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:41:02] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 10:41:02] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-28 10:41:23] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:41:23] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:41:23] [INFO] Trouvé 3 événements.
+[2025-12-28 10:41:24] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:41:24] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:41:24] [INFO] Trouvé 3 événements.
+[2025-12-28 10:45:45] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:45:46] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:45:46] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:45:46] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:45:46] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:45:46] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:45:46] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:45:46] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:45:46] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:45:46] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:45:46] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:45:55] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 10:45:55] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-28 10:47:03] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:47:03] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:47:03] [INFO] Trouvé 3 événements.
+[2025-12-28 10:47:17] [INFO] ⏩ +1 min
+[2025-12-28 10:47:17] [INFO] ⏩ +1 min
+[2025-12-28 10:47:19] [INFO] ⏩ +1 min
+[2025-12-28 10:47:20] [INFO] ⏩ +1 min
+[2025-12-28 10:47:20] [INFO] ⏩ +1 min
+[2025-12-28 10:47:23] [INFO] ⏩ +1 min
+[2025-12-28 10:51:06] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 10:51:07] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 10:51:07] [INFO] Système : Darwin 25.2.0
+[2025-12-28 10:51:07] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 10:51:07] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 10:51:07] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 10:51:07] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 10:51:08] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 10:51:08] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 10:51:08] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 10:51:08] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 10:51:15] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 10:51:15] [INFO] Chargé : enrg_20251225_220003.csv.
+[2025-12-28 10:51:18] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 10:51:18] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 10:51:18] [INFO] Trouvé 3 événements.
+[2025-12-28 15:48:09] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 15:48:10] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 15:48:10] [INFO] Système : Darwin 25.2.0
+[2025-12-28 15:48:10] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 15:48:10] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 15:48:10] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 15:48:10] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 15:48:11] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 15:48:11] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 15:48:11] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 15:48:11] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:11:01] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 16:11:02] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 16:11:02] [INFO] Système : Darwin 25.2.0
+[2025-12-28 16:11:02] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 16:11:02] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 16:11:02] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 16:11:02] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 16:11:03] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 16:11:03] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 16:11:03] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 16:11:03] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:11:41] [INFO] Chargé : enrg_20251225_220003_KNOWLEDGE.csv.
+[2025-12-28 16:11:59] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 16:12:00] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 16:12:09] [INFO] Chargé : enrg_20251225_220003_KNOWLEDGE.csv.
+[2025-12-28 16:14:10] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 16:14:10] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 16:14:10] [INFO] Système : Darwin 25.2.0
+[2025-12-28 16:14:10] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 16:14:10] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 16:14:11] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 16:14:11] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 16:14:11] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 16:14:11] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 16:14:11] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 16:14:11] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:14:20] [INFO] Chargé : enrg_20251225_220003_KNOWLEDGE.csv.
+[2025-12-28 16:23:09] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 16:23:09] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 16:23:09] [INFO] Système : Darwin 25.2.0
+[2025-12-28 16:23:09] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 16:23:09] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 16:23:09] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 16:23:09] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 16:23:10] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 16:23:10] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 16:23:10] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 16:23:10] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:23:19] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 16:23:19] [INFO] Chargé : enrg_20251225_220003.csv
+[2025-12-28 16:23:27] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 16:23:27] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 16:23:27] [INFO] Trouvé 3 événements.
+[2025-12-28 16:35:50] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 16:35:51] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 16:35:51] [INFO] Système : Darwin 25.2.0
+[2025-12-28 16:35:51] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 16:35:51] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 16:35:51] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 16:35:51] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 16:35:51] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 16:35:51] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 16:35:51] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 16:35:51] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:36:00] [INFO] Charge 4 marqueurs (ONYX).
+[2025-12-28 16:36:00] [INFO] Chargé : enrg_20251225_220003.csv
+[2025-12-28 17:02:10] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 17:02:11] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 17:02:11] [INFO] Système : Darwin 25.2.0
+[2025-12-28 17:02:11] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 17:02:11] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 17:02:11] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 17:02:11] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 17:02:11] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 17:02:11] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 17:02:11] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 17:02:12] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 17:02:24] [INFO] 🆕 Création de la copie de travail depuis : enrg_20251225_220003.csv
+[2025-12-28 17:02:24] [INFO] ✅ Copie _PRISM créée.
+[2025-12-28 17:02:24] [INFO] Charge 4 marqueurs.
+[2025-12-28 17:02:24] [INFO] Prêt.
+[2025-12-28 17:03:02] [INFO] 💾 Sauvegardé.
+[2025-12-28 17:03:02] [INFO] ➕ Marqueur créé : Autre
+[2025-12-28 17:03:11] [INFO] ⏩ +1 min
+[2025-12-28 17:03:11] [INFO] ⏩ +1 min
+[2025-12-28 17:03:11] [INFO] ⏩ +1 min
+[2025-12-28 17:03:11] [INFO] ⏩ +1 min
+[2025-12-28 17:03:11] [INFO] ⏩ +1 min
+[2025-12-28 17:03:12] [INFO] ⏩ +1 min
+[2025-12-28 17:03:13] [INFO] ⏸ Pause
+[2025-12-28 17:03:13] [INFO] ▶ Lecture
+[2025-12-28 17:03:14] [INFO] ⏪ -1 min
+[2025-12-28 17:03:14] [INFO] ⏪ -1 min
+[2025-12-28 17:03:14] [INFO] ⏪ -1 min
+[2025-12-28 17:03:14] [INFO] ⏪ -1 min
+[2025-12-28 17:03:15] [INFO] ⏪ -1 min
+[2025-12-28 17:03:15] [INFO] ⏪ -1 min
+[2025-12-28 17:03:23] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 17:03:23] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 17:03:23] [INFO] Trouvé 3 événements.
+[2025-12-28 17:09:21] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 17:09:22] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 17:09:22] [INFO] Système : Darwin 25.2.0
+[2025-12-28 17:09:22] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 17:09:22] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 17:09:22] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 17:09:22] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 17:09:22] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 17:09:22] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 17:09:22] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 17:09:22] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 17:10:03] [INFO] 📂 Fichier PRISM : enrg_20251225_220003_PRISM.csv
+[2025-12-28 17:10:03] [INFO] Prêt.
+[2025-12-28 17:10:19] [INFO] 📂 Fichier PRISM : enrg_20251225_220003_PRISM.csv
+[2025-12-28 17:10:20] [INFO] Prêt.
+[2025-12-28 17:10:22] [INFO] Err Clic: None
+[2025-12-28 17:10:23] [INFO] Err Clic: None
+[2025-12-28 17:12:34] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 17:12:35] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 17:12:35] [INFO] Système : Darwin 25.2.0
+[2025-12-28 17:12:35] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 17:12:35] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 17:12:35] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 17:12:35] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 17:12:35] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 17:12:35] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 17:12:35] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 17:12:35] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 17:12:41] [INFO] 📂 Fichier PRISM existant trouvé : enrg_20251225_220003_PRISM.csv
+[2025-12-28 17:12:42] [INFO] Prêt.
+[2025-12-28 17:12:46] [INFO] Err Clic: None
+[2025-12-28 17:12:57] [INFO] 📂 Fichier PRISM existant trouvé : enrg_20251225_220003_PRISM.csv
+[2025-12-28 17:12:57] [INFO] Prêt.
+[2025-12-28 17:13:00] [INFO] Err Clic: None
+[2025-12-28 17:13:19] [INFO] Err Clic: None
+[2025-12-28 19:49:19] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 19:49:20] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 19:49:20] [INFO] Système : Darwin 25.2.0
+[2025-12-28 19:49:20] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 19:49:20] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 19:49:20] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 19:49:20] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 19:49:20] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 19:49:20] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 19:49:20] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 19:49:20] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 19:49:29] [INFO] 📂 Fichier PRISM existant trouvé : enrg_20251225_220003_PRISM.csv
+[2025-12-28 19:49:30] [INFO] Prêt.
+[2025-12-28 19:49:36] [INFO] Err Clic: None
+[2025-12-28 19:49:36] [INFO] Err Clic: None
+[2025-12-28 19:49:37] [INFO] Err Clic: None
+[2025-12-28 19:49:38] [INFO] Err Clic: None
+[2025-12-28 19:49:39] [INFO] Err Clic: None
+[2025-12-28 19:49:39] [INFO] Err Clic: None
+[2025-12-28 19:49:49] [INFO] Err Clic: None
+[2025-12-28 19:53:15] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 19:53:16] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 19:53:16] [INFO] Système : Darwin 25.2.0
+[2025-12-28 19:53:16] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 19:53:16] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 19:53:16] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 19:53:16] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 19:53:16] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 19:53:16] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 19:53:16] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 19:53:16] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 19:53:28] [INFO] 🆕 Création de la copie de travail depuis : enrg_20251225_220003.csv
+[2025-12-28 19:53:28] [INFO] ✅ Copie _PRISM créée.
+[2025-12-28 19:53:29] [INFO] Charge 4 marqueurs.
+[2025-12-28 19:53:29] [INFO] Prêt.
+[2025-12-28 19:57:22] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 19:57:23] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 19:57:23] [INFO] Système : Darwin 25.2.0
+[2025-12-28 19:57:23] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 19:57:23] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 19:57:23] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 19:57:23] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 19:57:23] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 19:57:23] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 19:57:23] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 19:57:23] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 19:59:11] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 19:59:12] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 19:59:12] [INFO] Système : Darwin 25.2.0
+[2025-12-28 19:59:12] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 19:59:12] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 19:59:12] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 19:59:12] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 19:59:12] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 19:59:12] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 19:59:12] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 19:59:12] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 19:59:31] [INFO] 🆕 Initialisation depuis : enrg_20251225_220003.csv
+[2025-12-28 19:59:31] [INFO] ✅ Copie système effectuée (cp).
+[2025-12-28 19:59:32] [INFO] Charge 4 marqueurs.
+[2025-12-28 19:59:32] [INFO] Prêt.
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:43] [INFO] ⏩ +1 min
+[2025-12-28 19:59:54] [INFO] 💾 Sauvegardé (Header OK).
+[2025-12-28 19:59:54] [INFO] ➕ Marqueur créé : Autre
+[2025-12-28 20:00:07] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:00:08] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:00:08] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:00:08] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:00:08] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:00:08] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:00:08] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:00:08] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:00:08] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:00:08] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:00:08] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:00:18] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:00:19] [INFO] Charge 5 marqueurs.
+[2025-12-28 20:00:19] [INFO] Prêt.
+[2025-12-28 20:06:06] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:06:07] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:06:07] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:06:07] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:06:07] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:06:07] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:06:07] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:06:07] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:06:07] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:06:07] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:06:07] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:06:14] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:06:15] [INFO] Charge 5 marqueurs.
+[2025-12-28 20:06:15] [INFO] Err Chargement: 'LinearRegionItem' object has no attribute 'setPen'
+[2025-12-28 20:08:34] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:08:35] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:08:35] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:08:35] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:08:35] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:08:35] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:08:35] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:08:35] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:08:35] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:08:35] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:08:36] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:08:44] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:08:45] [INFO] Charge 5 marqueurs.
+[2025-12-28 20:08:45] [INFO] Prêt.
+[2025-12-28 20:14:33] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:14:34] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:14:34] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:14:34] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:14:34] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:14:34] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:14:34] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:14:34] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:14:34] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:14:34] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:14:34] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:14:42] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:14:43] [INFO] Charge 5 marqueurs.
+[2025-12-28 20:14:43] [INFO] Err Chargement: 'LinearRegionItem' object has no attribute 'setPen'
+[2025-12-28 20:14:54] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 20:14:54] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 20:14:54] [INFO] Trouvé 3 événements.
+[2025-12-28 20:15:08] [INFO] 🚩 Début défini. Faites Maj+Clic pour la Fin.
+[2025-12-28 20:15:17] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:15:17] [INFO] Err Clic: 'LinearRegionItem' object has no attribute 'setPen'
+[2025-12-28 20:15:30] [INFO] 🚩 Début défini. Faites Maj+Clic pour la Fin.
+[2025-12-28 20:15:39] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:15:39] [INFO] Err Clic: 'LinearRegionItem' object has no attribute 'setPen'
+[2025-12-28 20:19:01] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:19:02] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:19:02] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:19:02] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:19:02] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:19:02] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:19:02] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:19:02] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:19:02] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:19:02] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:19:02] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:19:11] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:19:11] [INFO] Charge 7 marqueurs.
+[2025-12-28 20:19:11] [INFO] Prêt.
+[2025-12-28 20:22:15] [INFO] Marqueur supprimé.
+[2025-12-28 20:22:16] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:22:19] [INFO] Marqueur supprimé.
+[2025-12-28 20:22:19] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:22:27] [INFO] Marqueur supprimé.
+[2025-12-28 20:22:27] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:26:37] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 20:26:38] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 20:26:38] [INFO] Système : Darwin 25.2.0
+[2025-12-28 20:26:38] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 20:26:38] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 20:26:38] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 20:26:38] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 20:26:38] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 20:26:38] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 20:26:38] [INFO] MainWindow V2.6 initialisée.
+[2025-12-28 20:26:38] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 20:26:47] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-28 20:26:48] [INFO] Charge 4 marqueurs.
+[2025-12-28 20:26:48] [INFO] Prêt.
+[2025-12-28 20:27:00] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:27:08] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:27:08] [INFO] ➕ Zone : Autre (1758s)
+[2025-12-28 20:28:34] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:28:41] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:28:41] [INFO] ➕ Zone : Source Std (406s)
+[2025-12-28 20:29:02] [INFO] ⏩ +1 min
+[2025-12-28 20:29:02] [INFO] ⏩ +1 min
+[2025-12-28 20:29:02] [INFO] ⏩ +1 min
+[2025-12-28 20:29:02] [INFO] ⏩ +1 min
+[2025-12-28 20:29:03] [INFO] ⏪ -1 min
+[2025-12-28 20:29:03] [INFO] ⏪ -1 min
+[2025-12-28 20:29:03] [INFO] ⏪ -1 min
+[2025-12-28 20:29:07] [INFO] ⏩ +1 min
+[2025-12-28 20:29:11] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:29:17] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:29:17] [INFO] ➕ Zone : Source + (1478s)
+[2025-12-28 20:29:36] [INFO] ⏩ +1 min
+[2025-12-28 20:29:38] [INFO] ⏩ +1 min
+[2025-12-28 20:29:38] [INFO] ⏩ +1 min
+[2025-12-28 20:29:38] [INFO] ⏩ +1 min
+[2025-12-28 20:29:39] [INFO] ⏩ +1 min
+[2025-12-28 20:29:39] [INFO] ⏩ +1 min
+[2025-12-28 20:29:39] [INFO] ⏩ +1 min
+[2025-12-28 20:29:39] [INFO] ⏩ +1 min
+[2025-12-28 20:29:40] [INFO] ⏩ +1 min
+[2025-12-28 20:29:41] [INFO] ⏩ +1 min
+[2025-12-28 20:29:44] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:29:49] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:29:49] [INFO] ➕ Zone : Source + (1004s)
+[2025-12-28 20:29:57] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:30:14] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:30:14] [INFO] ➕ Zone : Source + (1115s)
+[2025-12-28 20:30:49] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:30:55] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:30:55] [INFO] ➕ Zone : Source Std (669s)
+[2025-12-28 20:31:02] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:31:09] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:31:09] [INFO] ➕ Zone : Source Std (697s)
+[2025-12-28 20:31:16] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:31:23] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:31:23] [INFO] ➕ Zone : Source Std (1032s)
+[2025-12-28 20:31:31] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:31:37] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:31:37] [INFO] ➕ Zone : Source Std (976s)
+[2025-12-28 20:31:48] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 20:31:48] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 20:31:48] [INFO] Trouvé 3 événements.
+[2025-12-28 20:31:51] [INFO] ⏳ Scan EXPERT...
+[2025-12-28 20:31:51] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-28 20:31:51] [INFO] Trouvé 3 événements.
+[2025-12-28 20:32:06] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-28 20:32:15] [INFO] 💾 Sauvegardé.
+[2025-12-28 20:32:15] [INFO] ➕ Zone : Autre (1319s)
+[2025-12-28 20:32:24] [INFO] Appris : Autre
+[2025-12-28 20:32:28] [INFO] Event 1 (1904s)
+[2025-12-29 12:04:47] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 12:04:48] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 12:04:48] [INFO] Système : Darwin 25.2.0
+[2025-12-29 12:04:48] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 12:04:48] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 12:04:48] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 12:04:48] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 12:04:48] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 12:04:48] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 12:04:48] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 12:04:48] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 12:04:59] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-29 12:04:59] [INFO] Charge 14 marqueurs.
+[2025-12-29 12:04:59] [INFO] Prêt.
+[2025-12-29 12:06:04] [INFO] ⏪ -1 min
+[2025-12-29 12:06:04] [INFO] ⏪ -1 min
+[2025-12-29 12:06:04] [INFO] ⏪ -1 min
+[2025-12-29 12:06:08] [INFO] ⏪ -1 min
+[2025-12-29 12:07:00] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 12:07:09] [INFO] 💾 Sauvegardé.
+[2025-12-29 12:07:09] [INFO] ➕ Zone : Source + (1314s)
+[2025-12-29 12:07:39] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 12:07:47] [INFO] 💾 Sauvegardé.
+[2025-12-29 12:07:47] [INFO] ➕ Zone : Source Std (2775s)
+[2025-12-29 12:07:57] [INFO] ⏳ Scan EXPERT...
+[2025-12-29 12:07:57] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-29 12:07:57] [INFO] Trouvé 3 événements.
+[2025-12-29 12:29:13] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 12:29:14] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 12:29:14] [INFO] Système : Darwin 25.2.0
+[2025-12-29 12:29:14] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 12:29:14] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 12:29:14] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 12:29:14] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 12:29:14] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 12:29:14] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 12:29:14] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 12:29:14] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 12:29:22] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-29 12:29:22] [INFO] Charge 16 marqueurs.
+[2025-12-29 12:29:22] [INFO] Prêt.
+[2025-12-29 12:29:26] [INFO] ⏸ Pause
+[2025-12-29 12:29:54] [INFO] ⏳ Scan EXPERT...
+[2025-12-29 12:29:54] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-29 12:29:54] [INFO] Trouvé 3 événements.
+[2025-12-29 12:31:23] [INFO] ⏸ Pause
+[2025-12-29 12:31:57] [INFO] ⏸ Pause
+[2025-12-29 12:32:24] [INFO] ⏸ Pause
+[2025-12-29 12:32:48] [INFO] ⏸ Pause
+[2025-12-29 12:33:10] [INFO] ⏸ Pause
+[2025-12-29 12:33:21] [INFO] ⏪ -1 min
+[2025-12-29 12:33:21] [INFO] ⏪ -1 min
+[2025-12-29 12:33:22] [INFO] ⏩ +1 min
+[2025-12-29 12:33:22] [INFO] ⏩ +1 min
+[2025-12-29 12:33:24] [INFO] ⏩ +1 min
+[2025-12-29 12:33:25] [INFO] ⏩ +1 min
+[2025-12-29 12:33:25] [INFO] ⏩ +1 min
+[2025-12-29 12:33:25] [INFO] ⏩ +1 min
+[2025-12-29 12:33:29] [INFO] ⏪ -1 min
+[2025-12-29 12:33:30] [INFO] ⏪ -1 min
+[2025-12-29 12:33:30] [INFO] ⏪ -1 min
+[2025-12-29 12:33:31] [INFO] ⏪ -1 min
+[2025-12-29 12:33:31] [INFO] ⏪ -1 min
+[2025-12-29 12:33:32] [INFO] ⏩ +1 min
+[2025-12-29 12:54:51] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 12:54:52] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 12:54:52] [INFO] Système : Darwin 25.2.0
+[2025-12-29 12:54:52] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 12:54:52] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 12:54:52] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 12:54:52] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 12:54:53] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 12:54:53] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 12:54:53] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 12:54:53] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 12:55:10] [INFO] 📂 Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-29 12:55:11] [INFO] Charge 16 marqueurs.
+[2025-12-29 12:55:11] [INFO] Prêt.
+[2025-12-29 12:55:16] [INFO] ⏸ Pause
+[2025-12-29 12:55:17] [INFO] ▶ Lecture
+[2025-12-29 12:55:19] [INFO] ⏩ +1 min
+[2025-12-29 12:55:19] [INFO] ⏩ +1 min
+[2025-12-29 12:55:20] [INFO] ⏩ +1 min
+[2025-12-29 12:55:20] [INFO] ⏩ +1 min
+[2025-12-29 12:55:20] [INFO] ⏩ +1 min
+[2025-12-29 12:55:20] [INFO] ⏩ +1 min
+[2025-12-29 12:55:20] [INFO] ⏩ +1 min
+[2025-12-29 12:55:39] [INFO] ⏸ Pause
+[2025-12-29 12:55:58] [INFO] ⏳ Scan EXPERT...
+[2025-12-29 12:55:58] [INFO] Résiduels : J 30.1 | N 28.9
+[2025-12-29 12:55:58] [INFO] Trouvé 3 événements.
+[2025-12-29 12:57:50] [INFO] ⏸ Pause
+[2025-12-29 12:59:39] [INFO] ⏸ Pause
+[2025-12-29 18:28:01] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 18:28:02] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 18:28:02] [INFO] Système : Darwin 25.2.0
+[2025-12-29 18:28:02] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 18:28:02] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 18:28:02] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 18:28:02] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 18:28:02] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 18:28:02] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 18:28:02] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 18:28:03] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 18:28:13] [INFO] Reprise du travail : enrg_20251225_220003_PRISM.csv
+[2025-12-29 18:28:13] [INFO] Zones chargées : 16
+[2025-12-29 18:28:47] [INFO] Modifié : Autre
+[2025-12-29 18:28:48] [INFO] Sauvegardé.
+[2025-12-29 18:29:31] [INFO] Modifié : Exclusion (Pollution)
+[2025-12-29 18:29:31] [INFO] Sauvegardé.
+[2025-12-29 18:35:25] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 18:35:26] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 18:35:26] [INFO] Système : Darwin 25.2.0
+[2025-12-29 18:35:26] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 18:35:26] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 18:35:26] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 18:35:26] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 18:35:26] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 18:35:26] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 18:35:26] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 18:35:27] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 18:35:38] [INFO] Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-29 18:35:39] [INFO] Zones chargées : 16
+[2025-12-29 18:35:52] [INFO] Modifié : Autre (Exclusion)
+[2025-12-29 18:35:53] [INFO] Sauvegardé.
+[2025-12-29 18:36:17] [INFO] Modifié : Autre (Exclusion)
+[2025-12-29 18:36:17] [INFO] Sauvegardé.
+[2025-12-29 18:37:17] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:37:24] [INFO] Sauvegardé.
+[2025-12-29 18:37:24] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:37:34] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:37:43] [INFO] Sauvegardé.
+[2025-12-29 18:37:43] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:38:12] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:38:21] [INFO] Sauvegardé.
+[2025-12-29 18:38:21] [INFO] ➕ Zone : Source -
+[2025-12-29 18:38:29] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:38:39] [INFO] Sauvegardé.
+[2025-12-29 18:38:39] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:38:57] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:39:04] [INFO] Sauvegardé.
+[2025-12-29 18:39:04] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:39:33] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:39:39] [INFO] Sauvegardé.
+[2025-12-29 18:39:39] [INFO] ➕ Zone : Source -
+[2025-12-29 18:39:55] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:40:03] [INFO] Sauvegardé.
+[2025-12-29 18:40:03] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:40:26] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:40:31] [INFO] Sauvegardé.
+[2025-12-29 18:40:31] [INFO] ➕ Zone : Source -
+[2025-12-29 18:40:46] [INFO] 🚩 Début défini. Maj+Clic pour Fin.
+[2025-12-29 18:40:53] [INFO] Sauvegardé.
+[2025-12-29 18:40:53] [INFO] ➕ Zone : Source Std
+[2025-12-29 18:49:27] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-29 18:49:28] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-29 18:49:28] [INFO] Système : Darwin 25.2.0
+[2025-12-29 18:49:28] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-29 18:49:28] [INFO] Bibliothèques critiques chargées.
+[2025-12-29 18:49:28] [INFO] Initialisation de l'interface graphique...
+[2025-12-29 18:49:28] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-29 18:49:28] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-29 18:49:28] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-29 18:49:28] [INFO] MainWindow V2.6 initialisée.
+[2025-12-29 18:49:28] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-29 18:49:50] [INFO] Reprise : enrg_20251225_220003_PRISM.csv
+[2025-12-29 18:49:50] [INFO] Zones chargées : 25

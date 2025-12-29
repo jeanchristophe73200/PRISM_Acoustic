@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_STUDIES/
+*.flac
+*.wav
+*.mp3
+_BACKUPS/
+*.tar.gz
+checkpoint_*.sh
+.DS_Store
+.env
+venv/

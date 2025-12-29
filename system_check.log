@@ -1,0 +1,54 @@
+[2025-12-28 16:11:01] [INFO] --- NOUVELLE SESSION PRISM DÉMARRÉE ---
+[2025-12-28 16:11:02] [INFO] --- PRISM V2.5 SYSTEM CHECK ---
+[2025-12-28 16:11:02] [INFO] Système : Darwin 25.2.0
+[2025-12-28 16:11:02] [INFO] Disque de sauvegarde détecté : /Volumes/MacDD+/PRISM_V5_Backup
+[2025-12-28 16:11:02] [INFO] Bibliothèques critiques chargées.
+[2025-12-28 16:11:02] [INFO] Initialisation de l'interface graphique...
+[2025-12-28 16:11:02] [INFO] IA SYSTEM : [Cerveau IA V7.5 (Double Résiduel & PAC)] : Prêt. Filtre PAC activé (> 900s).
+[2025-12-28 16:11:03] [INFO] Dashboard chargé (avec IA connectée).
+[2025-12-28 16:11:03] [INFO] MainWindow : Cerveau 'Cerveau IA V7.5 (Double Résiduel & PAC)' transmis au Dashboard.
+[2025-12-28 16:11:03] [INFO] MainWindow V2.6 initialisée.
+qt.qpa.fonts: Populating font family aliases took 42 ms. Replace uses of missing font family "Monospace" with one that exists to avoid this cost. 
+[2025-12-28 16:11:03] [INFO] Interface chargée. PRISM V2.5 est prêt.
+[2025-12-28 16:11:41] [INFO] Chargé : enrg_20251225_220003_KNOWLEDGE.csv.
+[2025-12-28 16:11:59] [INFO] ⏳ Scan EXPERT...
+Traceback (most recent call last):
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: None
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/jeanchristophefinantz/PRISM_V5/ui/dashboard.py", line 495, in run_auto_scan
+    t = pd.to_numeric(self.df_global[ts_col], errors='coerce').tolist()
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: None
+[2025-12-28 16:12:00] [INFO] ⏳ Scan EXPERT...
+Traceback (most recent call last):
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: None
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/jeanchristophefinantz/PRISM_V5/ui/dashboard.py", line 495, in run_auto_scan
+    t = pd.to_numeric(self.df_global[ts_col], errors='coerce').tolist()
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/jeanchristophefinantz/PRISM_V5/venv/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: None
+[2025-12-28 16:12:09] [INFO] Chargé : enrg_20251225_220003_KNOWLEDGE.csv.
