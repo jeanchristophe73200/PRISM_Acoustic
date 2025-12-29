@@ -36,3 +36,11 @@ PRISM est une solution logicielle experte développée pour les acousticiens. El
 
 ---
 *Développé par Jean-Christophe Finantz - 2025*
+
+## 🙏 Remerciements & Crédits
+Ce projet n'existerait pas sans l'écosystème Open Source. Un immense merci aux créateurs des bibliothèques suivantes :
+
+- **Librosa :** Pour ses puissants algorithmes d'analyse audio et musicale.
+- **PyQtGraph :** Pour la visualisation graphique haute performance en temps réel.
+- **Pandas & NumPy :** Les piliers du traitement de données en Python.
+- **PyQt5 :** Pour l'interface graphique robuste et cross-platform.

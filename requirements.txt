@@ -2,3 +2,4 @@ pandas
 numpy
 PyQt5
 pyqtgraph
+librosa
